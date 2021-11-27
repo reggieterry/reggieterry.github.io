@@ -6,6 +6,7 @@
    Default
    ========================================================================== */
 
+
 .sidebar {
   @include clearfix();
   // @include breakpoint(max-width $large) {
@@ -238,6 +239,9 @@
   }
 }
 
+.print-only
+{display: none;}
+
 .author__urls {
   display: none;
   position: absolute;
@@ -350,4 +354,3 @@
     margin-right: initial;
   }
 }
-
