@@ -6,39 +6,6 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: David Nicholson
-    tagline: Natural Language Processing Researcher
-    avatar: profile-small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    location: Philadelphia, PA
-    email: dnicholson329@gmail.com
-    phone:
-    website: #do not add http://
-    linkedin: 
-    github: danich1
-    orcid: 0000-0003-0002-5761 
-    twitter: '@dnicholson329'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    cv_pdf: /docs/Nicholson_cv.pdf
-    resume_pdf: /docs/Nicholson_resume.pdf
-
-    languages:
-      - idiom: English
-        level: Native
-
-    interests:
-      - item: Machine/Deep Learning 
-        link:
-
-      - item: Natural Language Processing
-        link:
-
-      - item: Investing/Stock Trading
-        link:
 
 career-profile:
     title: Career Profile
@@ -59,7 +26,7 @@ resume-summary:
 education:
     - degree: Ph.D. in Genomics and Computational Biology
       university: University of Pennsylvania
-      time: 2016 - Present
+      time: 2016 - May 2022 (expected)
       details: 
     - degree: Postbaccalaureate Program
       university: University of Pennsylvania
@@ -72,7 +39,7 @@ education:
 
 research_experience:
     - role: Graduate Researcher
-      time: Fall 2016 - Present
+      time: Fall 2016 - May 2022 (expected)
       details: |
         - University of Pennsylvania's Genomics and Computational Biology Program
         - Mentor: Dr. Casey Greene
@@ -213,39 +180,48 @@ honors:
 
 presentations:
     - title: Institute for Biomedical Informatics (IBI) Annual Retreat
-      type: Poster Presentation
+      type: |
+        - Poster Presentation
       time: December 2020
 
     - title: Cold Spring Harbor Biological Data Science Symposium
-      type: Lightning Talk and Poster Presentation
+      type: |
+        - Lightning Talk and Poster Presentation
       time: November 2020
 
     - title: National Human Genome Research Institute National Trainee Meeting
-      type: Poster Presentation
+      type: |
+        - Poster Presentation
       time: March 2020
 
     - title: Seminar at Elsevier
-      type: Invited Speaker
+      type: |
+        - Invited Speaker
       time: December 2019
 
     - title: International Society of Computational Biology (ISCB) Rocky
-      type: Poster Presentation
+      type: |
+        - Poster Presentation
       time: December 2019
 
     - title: Institute for Biomedical Informatics (IBI) Annual Retreat
-      type: Poster Presentation
+      type: |
+        - Poster Presentation
       time: June 2019
 
     - title: International Society of Computational Biology (ISCB) Rocky
-      type: Poster Presentation
+      type: |
+        - Poster Presentation
       time: December 2018
 
     - title: Computational Systems for Integrative Genomics (CSIG)
-      type: Lightning Talk
+      type: |
+        - Lightning Talk
       time: July 2017
 
     - title: UMBC’s Undergraduate Research and Creative Achievement Day 
-      type: Poster Presentation
+      type: |
+        - Poster Presentation
       time: Spring 2014
 
     - title: Attended Harvard’s Biomedical Science Careers Student Conference
@@ -288,11 +264,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, R
+      - name: Python
         level: 100%
 
+      - name: R
+        level: 70%
+
       - name: C++/C, Java
-        level: 50%
+        level: 60%
 
       - name: Latex
         level: 75%
@@ -307,7 +286,7 @@ skills:
         level: 50%
 
       - name: Github
-        level: 90%
+        level: 100%
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

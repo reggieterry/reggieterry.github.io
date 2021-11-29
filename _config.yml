@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Nicholson - ML|NLP|Comp Bio"
+title                    : "David Nicholson"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "David Nicholson"
-description              : "David Nicholson's online portfolio"
+description              : "David Nicholson's personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "David Nicholson"
   avatar           : "/assets/images/profile-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring data scientist with a focus on Deep Learning and NLP techniques"
+  bio              : "Aspiring data scientist with a focus on Deep Learning and Natural Language Processing techniques"
   location         : "Philadelphia, PA"
   email            : 
   links:

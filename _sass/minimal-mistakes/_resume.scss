@@ -33,7 +33,6 @@
         }
     }
   }
-
   .section-title {
             text-transform: uppercase;
             font-size: 18px;
@@ -135,12 +134,11 @@
         }
         .level-bar {
             height: 12px;
-            background: #f3f6f6;
+            background: #dcdcdc;
         }
         .level-bar-inner {
             height: 12px;
             background: lighten($primary-color, 5%);
         }
     }
-
 }
