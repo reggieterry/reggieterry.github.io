@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 layout: archive
-title:
+title: Projects
 website_one:
     - image_path: "https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/main/content/images/figure-pieces/homescreen_doi.png"
       title: "Preprint similarity search"

@@ -10,16 +10,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a rising 6th year Ph.D. Candidate at the University of Pennsylvania (Penn) in the <a href="https://www.med.upenn.edu/gcb/">Genomics and Computational Biology </a> program.
-      I gradudated from the University of Maryland Baltimore County in 2015 with a B.S. in Computer Science and a minor in Bioinformatics.
-      I joined the <a href="https://greenelab.com">Greenelab</a>  in 2017, where most of my research focuses on using statistical and deep learning techniques to uncover latent knowledge within biomedical literature.
-      During my tenure at Penn, I was appointed as a trainee on the National Human Genome Research Institute (NHGRI) T32 Computational Genomics training grant.
-      As I advance towards the end of my Ph.D., I aim to continue improving my analytic skills and aspire to become a data scientist that focuses on applying deep learning techniques within the industrial field.
+      David is a 5th year Ph.D. candidate at the Unversity of Pennsylvania (Penn) in the <a href="https://www.med.upenn.edu/gcb/">Genomics and Computational Biology </a>program. 
+      He utilizes Deep Learning and Natural Language Processing techniques to analyze biomedical text.
+      At Penn, he joined the <a href="https://greenelab.com">Greenelab</a> in 2017 and was appointed as a trainee on the T32 Computational Genomics training grant from the National Human Genome Research Institute (NHGRI).
+      He has presented at the International Society for Computational Biology (ISCB)  Rocky Mountain Bioinformatics conference, Cold Spring Harbor's Biological Data Science Symposium, and was invited to speak at Elsevier's Labs Online Lecture series. 
+      He graduated from the University of Maryland Baltimore County (UMBC) with a B.S. degree in Computer Science and a minor in Bioinformatics. 
+      During his time at UMBC, he was a part of the Meyerhoff Scholars program (M23) and was appointed as a Marc U*Star Scholar.
+      As he advances towards the end of his Ph.D. journey, he seeks to become a data scientist where he can continue to improve and use his data analytic skills.  
 
 resume-summary: 
     title: Summary
     summary: |
-      Natural Language Processing researcher with ample experience in designing, training and implementing deep learning models to analyze biomedical text.
+      Computational biology researcher with ample experience in designing, training and implementing deep learning models to analyze biomedical text.
       - 12+ years of programming experience with a specialty in python
       - 3+ years of experience in data preprocessing/visualization
 
@@ -45,7 +47,7 @@ research_experience:
         - Mentor: Dr. Casey Greene
         - Designed and executed text-processing pipelines to perform stopword removal and lemmatization on biomedical text.
         - Trained Word2Vec/Doc2Vec, recurrent neural networks, and transformers to analyze published biomedical text.
-        - Used statistical modeling to observe longitudinal changes within biomedical text.
+        - Used statistical modeling to observe token semantic changes within open access biomedical abstracts. 
         - Assisted in designing an auto-runner pipeline that extracts and processes newly published articles from Pubmed Central Open Access Corpus (PMCOA).
 
     - role: Postbaccalaureate Researcher
@@ -179,6 +181,10 @@ honors:
       time: November 2013
 
 presentations:
+    - title: Elsevier's Labs Online Lecture services
+      type: |
+        - 30 Minute Talk
+      time: October 2021
     - title: Institute for Biomedical Informatics (IBI) Annual Retreat
       type: |
         - Poster Presentation
@@ -264,17 +270,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Github
+        level: 100%
+      
       - name: Python
         level: 100%
-
-      - name: R
-        level: 70%
-
-      - name: C++/C, Java
-        level: 60%
-
-      - name: Latex
-        level: 75%
 
       - name: Pytorch/Tensorflow, Transformers
         level: 90%
@@ -285,8 +285,14 @@ skills:
       - name: Flask/Django
         level: 50%
 
-      - name: Github
-        level: 100%
+      - name: R
+        level: 70%
+
+      - name: C++/C, Java
+        level: 60%
+
+      - name: Latex
+        level: 75%
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

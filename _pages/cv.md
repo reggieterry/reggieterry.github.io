@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 layout: resume
-title: DN's CV
+title: CV
 ---
 
 {% include resume/contact.html %}

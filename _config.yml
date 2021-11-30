@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "David Nicholson"
   avatar           : "/assets/images/profile-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring data scientist with a focus on Deep Learning and Natural Language Processing techniques"
+  bio              : "Computational Biology researcher with a focus on Deep Learning and Natural Language Processing techniques"
   location         : "Philadelphia, PA"
   email            : 
   links:
