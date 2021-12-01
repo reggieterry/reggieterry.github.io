@@ -1,0 +1,27 @@
+{% assign certifications = site.data.resume.certifications %}
+{% if certifications %}
+<section class="section experiences-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-stamp fa-stack-1x fa-inverse"></i>
+    </span>
+    Certifications
+  </h2>
+  {% for cert in certifications %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="award-title">{{ cert.title }}</h3>
+        <div class="time">{{ cert.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Nicholson"
+title                    : "Reginald Terry"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "David Nicholson"
-description              : "David Nicholson's personal website"
+name                     : "Reginald Terry"
+description              : "Reginald Terry's personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,30 +102,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Nicholson"
-  avatar           : "/assets/images/profile-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Biology researcher with a focus on Deep Learning and Natural Language Processing techniques"
+  name             : "Reginald Terry"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Change bio here"
   location         : "Philadelphia, PA"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dnicholson329@gmail.com"
+      url: "mailto:r.terry5350@o365.ncu.edu "
     - label: "Orcid"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0003-0002-5761"
+      url: "https://orcid.org/0000-0001-5102-6049"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/reginald-terry-11638515/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dnicholson329"
+      url: "https://twitter.com/ReginaldTerry19"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/danich1"
+      url: "https://github.com/reggieterry"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -133,18 +136,21 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/reginald-terry-11638515/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dnicholson329"
+      url: "https://twitter.com/ReginaldTerry19"
     - label: "Orcid"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0003-0002-5761"
+      url: "https://orcid.org/0000-0001-5102-6049"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/danich1"
+      url: "https://github.com/reggieterry"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -10,289 +10,126 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      David is a 5th year Ph.D. candidate at the Unversity of Pennsylvania (Penn) in the <a href="https://www.med.upenn.edu/gcb/">Genomics and Computational Biology </a>program. 
-      He utilizes Deep Learning and Natural Language Processing techniques to analyze biomedical text.
-      At Penn, he joined the <a href="https://greenelab.com">Greenelab</a> in 2017 and was appointed as a trainee on the T32 Computational Genomics training grant from the National Human Genome Research Institute (NHGRI).
-      He has presented at the International Society for Computational Biology (ISCB)  Rocky Mountain Bioinformatics conference, Cold Spring Harbor's Biological Data Science Symposium, and was invited to speak at Elsevier's Labs Online Lecture series. 
-      He graduated from the University of Maryland Baltimore County (UMBC) with a B.S. degree in Computer Science and a minor in Bioinformatics. 
-      During his time at UMBC, he was a part of the Meyerhoff Scholars program (M23) and was appointed as a Marc U*Star Scholar.
-      As he advances towards the end of his Ph.D. journey, he seeks to become a data scientist where he can continue to improve and use his analytical skills.
-
-resume-summary: 
-    title: Summary
-    summary: |
-      Computational biology researcher with ample experience in designing, training and implementing deep learning models to analyze biomedical text.
-      - 12+ years of programming experience with a specialty in python
-      - 3+ years of experience in data preprocessing/visualization
+      Highly motivated, creative, and results driven professional with fifteen (15) years of extensive experience in the hospitality industry.
+      My hospitality experience revolves around food service, payroll, employee training and development, management and public relations. 
+      I also possess a strong knowlege of social media tools as well as a vast amount of computer skills, which includes, Microsoft Office, R Programming, and other applications.
+      I also have exemplary writing and communication skills, very detail-oriented, and excellent interpersonal and leadership skills. 
+      Currently, I am a DBA candidate at Northcentral University where my thesis is centered on leadership and stress within the hospitality industry.
 
 education:
-    - degree: Ph.D. in Genomics and Computational Biology
-      university: University of Pennsylvania
-      time: 2016 - May 2022 (expected)
+    - degree: Doctorate in Business Administration 
+      university: Northcentral University
+      time: 2018-2022
+      details: |
+        My focus is on transformational leadership and job stress in the hospitality industry. 
+        I am looking at how the use of transformational leadership can effect job stress and burnout.
+
+    - degree: Masters in Tourism and Hospitality Management
+      university: Temple University
+      time: 2016-2018 
+      details: Concentration in Marketing 
+    - degree: Bachelor of Science, Hospitality and Tourism Administration
+      university: North Carolina Central University 
+      time: 2012-2015
+      details:  
+    - degree: Associate in Applied Science, Business Administration 
+      university: Durham Technical Community College 
+      time: 2009-2012
       details: 
-    - degree: Postbaccalaureate Program
-      university: University of Pennsylvania
-      time: 2015 - 2016
-      details: 
-    - degree: B.S. in Computer Science and Minor in Bioinformatics
-      university: University of Maryland Baltimore County
-      time: 2011 - 2015
-      details:
+      
+experiences:
+    - role: Inside Sales Consultant
+      time: March 2016 to August 2016
+      company: Durham Bulls Baseball Club 
+      details: Managed customer accounts from several business organizations in the Durham/Raleigh/Chapel Hill area. 
+               Collected funds and organized party essentials for each function.
+          - Sold Season Ticket Plans (Half and Full) to long time clients.
+          - Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
+          - Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
+          - Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
 
-research_experience:
-    - role: Graduate Researcher
-      time: Fall 2016 - May 2022 (expected)
-      details: |
-        - University of Pennsylvania's Genomics and Computational Biology Program
-        - Mentor: Dr. Casey Greene
-        - Designed and executed text-processing pipelines to perform stopword removal and lemmatization on biomedical text.
-        - Trained Word2Vec/Doc2Vec, recurrent neural networks, and transformers to analyze published biomedical text.
-        - Used statistical modeling to observe token semantic changes within open access biomedical abstracts. 
-        - Assisted in designing an auto-runner pipeline that extracts and processes newly published articles from Pubmed Central Open Access Corpus (PMCOA).
 
-    - role: Postbaccalaureate Researcher
-      time: Fall 2015-Summer 2016
-      details: |
-        - University of Pennsylvania's Postbaccalaureate Program
-        - Mentor: Dr. Benjamin F. Voight
-        - Used statistical methods to determine which protein domains are easily targeted by small molecules, drugs.
-        - Created a website that will provide a quick snapshot of drug-gene interactions.
-        - Assisting post-doctoral fellow in researching spider genomes to understand how the
-        Golden Orb-weaver spider spins and creates intricate webs.
+    - role: Catering Manager
+      time: October 2015 to March 2016 
+      company: North Carolina Central University Dining Services
+      details: Assisted with implementing and organizing several different catering events around the campus.
+          - Respond to various customer inquiries. Design and prepare placement settings for events.
+          - Prepare catering order forms to clients requirements and interests.
+          - Coordinate and manage catering operations. 
 
-    - role: Undergrad Researcher
-      time: Fall 2013-2015
-      details: |
-          - University of Maryland Baltimore County
-          - Mentor: Dr. Ivan Erill
-          - Characterized population-level transcriptional regulation by assisting with the creation of
-          a bioinformatic pipeline that quantifies transcription factor enrichment in metagenomic data.
+    - role: Marketing Intern 
+      time: May 2013 to August 2013
+      company: Durham Convention Center 
+      details: Assisted marketing/sales department with advertising and promotions. -Build Social Media presentations. 
+            Collected and analyze data to help identify customer base. 
+          - Assisted with daily procedures in the convention center.
+          - Worked on proposals and contract writing for clients.
+          - Answered cold calls and responded to customer emails. 
 
-    - role: Summer Research Intern
-      time: Summer 2014
-      details: |
-          - University of Pennsylvania (SUIP) 
-          - Mentor: Dr. Benjamin F. Voight
-          - Created a Perl pipeline that utilized Mendelian Randomization and Approximate Bayesian Computation 
-          to discover if having an elevated level of triglycerides causes heart disease.
-
-    - role: Summer Research Intern
-      time: Summer 2013
-      details: |
-          - Harvard University and Massachusetts Institute of Technology Bioinformatics and Integrative Genomics (BIG)
-          - Mentor: Dr. Heidi Rehm
-          - Explored a more efficient measure to track DNA samples. Researched the use of SNP (single nucleotide polymorphisms) 
-          information to act as a DNA barcode to keep track of patient samples that have undergone different gene sequencing workflows.
-
-    - role: Summer Research Intern
-      time: Summer 2012
-      details: |
-       - University of Pittsburgh and Carnegie Mellon University - TecBio
-       - Mentor: Dr. Christopher Langmead
-       - Conducted machine learning to assess algorithms to determine the best strategies to
-       identify lung cancer in patients as early as possible.
-
-teaching_experience:
-    - role: Advised Rotation student for Research Lab
-      time: Sept 2020 - Dec 2020
-      details: |
-          - Guided rotation student on conducting and executing a research project that analyzed biomedical abstracts to model disease-gene trajectories through time.
-
-    - role: Student Advising for 1st and 2nd Year Ph.D. Students
-      time: August 2018 - August 2020
-      details: |
-          - Advised first and second year Ph.D. Students on which classes to take
-          - Advised first-year Ph.D. Students about the mechanics of lab rotations
-
-    - role: Python BootCamp/Teaching Assistant
-      time: August 2019
-      details: |
-          - Assisted in teaching Ph.D. students how to program in python.
-
-    - role: Advanced Computational Biology/Tutor
-      time: April 2019 - May 2019
-      details: |
-          - Assisted a Ph.D. student in learning advanced computational biology topics.
-          - Topics ranged from machine learning algorithms to various statistical algorithms
-
-    - role: Python BootCamp/Teaching Assistant
-      time: September 2017
-      details: |
-          - Assisted in teaching Ph.D. students how to program in python.
-
-    - role: Data Structures/Tutor
-      time: Sept 2013 - May 2014
-      details: |
-          - Tutored and assisted students in studying/programming various data structures such as binary search trees to hash tables.
-
-    - role: Math Tutor
-      time: Sept 2012 - May 2013
-      details: |
-          - Worked in walk-in tutoring sessions for university services.
-          - Tutored students in math classes from Algebra I to Calculus II
-
-    - role: Calculus I and II/Learning Assistant
-      time: Sept 2012 - May 2013
-      company: 
-      details: |
-         - Helped professor assist students in homework during office hours
-
-publications:
-    title: Publications
-    intro:
-    papers:
-      - title: Linguistic Analysis of the bioRxiv Preprint Landscape 
-        link: "https://greenelab.github.io/annorxiver_manuscript/"
-        authors: <b>Nicholson, D. N.</b>, Rubinetti, V., Hu, D., Thielk, M., Hunter, L. E.,  Greene, C. S. (In Review)
-
-      - title: Constructing Knowledge Graphs and Their Biomedical Applications.
-        link: "https://doi.org/10.1016/j.csbj.2020.05.017"
-        authors: <b>Nicholson, D. N.</b>, Greene, C. S. (2020)
-
-      - title: Expanding a Database-derived Biomedical Knowledge Graph via Multi- Relation Extraction from Biomedical Abstracts.
-        link: "https://doi.org/10.1101/730085"
-        authors: <b>Nicholson, D. N.</b>, Himmelstein, D. S., Greene, C. S. (2019, Preprint)
-
-      - title: The Nephila clavipes genome highlights the diversity of spider silk genes and their complex expression.
-        link: "https://doi.org/10.1038/ng.3852"
-        authors: Babb, P. L., Lahens, N. F., Correa-Garhwal, S. M., <b>Nicholson, D. N.</b>, Kim, E.J., Hogenesch, J.B., Kuntner, M., Higgins, L., Hayashi, C. Y., Agnarsson, I., Voight, B.F. (2017)
+certifications: 
+     - title: Data Wrangling in R Programming 
+       time: September 2021
+       
+     - title: AI in Business Essential Training
+       time: September 2021
+     
+     - title: Business Intelligence for Consultants
+       time: September 2021
+     
+     - title: Learning R Programming 
+       time: September 2021 
+     
+     - title: Certified Hospitality Graduate 
+       time: December 2015
+     
+     - title: Cvent Supplier Network 
+       time: June 2015 
 
 honors:
-    - award: Appointed trainee on T32 Computational Genetics
-      time: June 2019 - August 2021
-      location: National Human Genome Research Institute (NHGRI)
+    - award: American Lodging Investment Summit Scholarship
+      intro: received $1500 scholarship from the American Hotel and Lodging Educational Foundation 
+      time: September 2014 
+    
+    - award: National Society of Minorities in Hospitality
+      intro: Member of the NSMH chapter at North Carolina Central University 
+      time: August 2012 
 
-    - award: Marc U*Star Scholar
-      time: Sept 2014 -June 2015
-      location: University of Maryland Baltimore County
+relevant_docs:
+  title: Relevant Documents
+  documents:
+    - title: Shake Shack Powerpoint
+      link: docs/Shake_Shack_powerpoint.pdf
+      description: Service Quality Audit for Shake Shack in Philadelpha Pa. 
 
-    - award: National Security Agency (NSA) Scholar
-      time: Sept 2012 - June 2014
-      location: University of Maryland Baltimore County
+    - title: Fox STHM Consulting Tem Presentation
+      link: docs/Fox_STHM_Consulting_Team_Presentation
+      description: Design and consult project for Temple University's Fox School of Business on 20th Anniversary of the School of Sport Tourism and Hospitality Management 
 
-    - award: Meyerhoff Scholar (M23)
-      time: August 2011 - June 2015
-      location: University of Maryland Baltimore County
-
-    - award: Thomson Reuters Award HackMIT
-      time: October 2014
-
-    - award: ABRCMS Poster Presentation Award
-      time: November 2013
-
-presentations:
-    - title: Elsevier's Labs Online Lecture services
-      type: |
-        - 30 Minute Talk
-      time: October 2021
-    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
-      type: |
-        - Poster Presentation
-      time: December 2020
-
-    - title: Cold Spring Harbor Biological Data Science Symposium
-      type: |
-        - Lightning Talk and Poster Presentation
-      time: November 2020
-
-    - title: National Human Genome Research Institute National Trainee Meeting
-      type: |
-        - Poster Presentation
-      time: March 2020
-
-    - title: Seminar at Elsevier
-      type: |
-        - Invited Speaker
-      time: December 2019
-
-    - title: International Society of Computational Biology (ISCB) Rocky
-      type: |
-        - Poster Presentation
-      time: December 2019
-
-    - title: Institute for Biomedical Informatics (IBI) Annual Retreat
-      type: |
-        - Poster Presentation
-      time: June 2019
-
-    - title: International Society of Computational Biology (ISCB) Rocky
-      type: |
-        - Poster Presentation
-      time: December 2018
-
-    - title: Computational Systems for Integrative Genomics (CSIG)
-      type: |
-        - Lightning Talk
-      time: July 2017
-
-    - title: UMBC’s Undergraduate Research and Creative Achievement Day 
-      type: |
-        - Poster Presentation
-      time: Spring 2014
-
-    - title: Attended Harvard’s Biomedical Science Careers Student Conference
-      types:
-      time: April 2014
-
-    - title: Participated in MIT’s Quantitative Biology Workshop
-      type: 
-      time: Jan 2014
-
-    - title: Annual Biomedical Research Conference for Minority Students
-      type:
-      time: November 2013
-
-projects:
-    title: Projects
-    intro: Highlighted Research Repositories 
-    assignments:
-      - title: Biovectors
-        link: "https://github.com/greenelab/biovectors/"
-        tagline: "Using word embeddings to detect longitudinal changes in biomedical abstracts."
-
-      - title: Preprint Similarity Search
-        link: "https://greenelab.github.io/preprint-similarity-search/"
-        tagline: "A web app that uses machine learning to recommend the most suitable journals based on the textual content of your preprint."
-
-      - title: Annorxiver
-        link: "https://github.com/greenelab/annorxiver"
-        tagline: "Performing a linguistic analysis of the bioRxiv repository."
-
-      - title: Snorkeling-Full-Text
-        link: "https://github.com/greenelab/snorkeling-full-text"
-        tagline: "Extracting biomedical relationships from literature using weak supervision via the Snorkel python library."
-
-      - title: Pubtator
-        link: "https://github.com/greenelab/pubtator"
-        tagline: "Resource for converting Pubtator and Pubtator Central annotations into BioCXML format."
+    - title: Reference Letter - 2015
+      link: docs/Reference_Letter_2015.pdf
+      description: Reference Letter from former Mens Achievement Center advisor 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Github
-        level: 100%
-      
-      - name: Python
-        level: 100%
+      - name: Microsoft 365 Suites 
+        level: 98%
 
-      - name: Pytorch/Tensorflow, Transformers
+      - name: Leadership 
+        level: 98%
+
+      - name: Public Speaking 
+        level: 98%
+
+      - name: Event Planning 
+        level: 95%
+
+      - name: Marketing 
+        level: 90% 
+
+      - name: Hospitality
         level: 90%
-
-      - name: Plotnine/ggplot, Matplotlib/Seaborn, Pandas
-        level: 100%
-
-      - name: Flask/Django
-        level: 50%
-
-      - name: R
-        level: 70%
-
-      - name: C++/C, Java
-        level: 60%
-
-      - name: Latex
-        level: 75%
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
