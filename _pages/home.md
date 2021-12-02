@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/carlos-muza-hpjSkU2UYSU-unsplash.jpg
 title: "Reginald Terry"
-excerpt: "Insert Headline Here"
+excerpt: "Aspiring business analyst with a focus on various data analytics techniques"
 feature_row:
   - image_path: 
     alt: 
