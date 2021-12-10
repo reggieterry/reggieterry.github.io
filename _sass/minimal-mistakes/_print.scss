@@ -275,8 +275,8 @@
    .resume
    {
 
-    .print-only{
-      display: inline;
+    .print_only{
+      display: inline !important;
     }
 
     .level-bar,
