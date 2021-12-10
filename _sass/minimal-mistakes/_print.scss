@@ -13,11 +13,12 @@
   }
 
   * {
-    printer-colors: exact !important;
+    printer-colors: exact;
     color-adjust: exact !important;
-   /* -moz-box-sizing: border-box;
+    -webkit-print-color-adjust: exact !important;
+    -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    box-sizing: border-box;*/
+    box-sizing: border-box;
   }
 
   html {
@@ -28,6 +29,8 @@
   }
 
   body {
+    page-break-after:always;
+    height: 100%;
     margin: 0 auto;
     background: #fff !important;
     color: #000 !important;
@@ -263,14 +266,41 @@
       color: #FFFFFF !important;
     }
   }
+
+.page__footer{
+   page-break-before:always;
+   page-break-after:always;
+}
+    
    .resume
    {
-   .fa-inverse,
+
+    .print-only{
+      display: inline;
+    }
+
+    .level-bar,
+    .level-bar-inner{
+      display:none !important;
+      background: #000000 !important;
+    }
+    .section{
+      margin-bottom: 10px !important;
+    }
+
+    .section-title{
+      color: #000000 !important;
+    }
+
+     .fa-circle{
+      color: #000000 !important;
+     }
+
+    .fa-inverse,
     .fa-inverse:after,
     .fa-inverse:before {
        color: #FFFFFF !important;
      }
-
     
     h2{
       font-size: 15px !important; 
@@ -278,6 +308,7 @@
     
     h3{
       font-size:14px !important;
+      width: 100% !important;
     }
     
     .contact-container {
@@ -294,8 +325,8 @@
 
       img {
         width: 100%;
-        /*height: 100% !important;*/
-        -webkit-filter: greyscale(1);
+        height: 100% !important;
+        -webkit-filter: grayscale(1);
       }
     }
     
@@ -316,8 +347,9 @@
     .time {
       position: absolute !important;
       display: inline !important;
-      margin-top: 0px !important;
+      margin-top: -3px !important;
     }
+
    }
 
 
