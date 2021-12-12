@@ -12,8 +12,8 @@ career-profile:
     summary: |
       Highly motivated, creative, and results driven professional with fifteen (15) years of extensive experience in the hospitality industry.
       My hospitality experience revolves around food service, payroll, employee training and development, management and public relations. 
-      I also possess a strong knowlege of social media tools as well as a vast amount of computer skills, which includes, Microsoft Office, R Programming, and other applications.
-      I also have exemplary writing and communication skills, very detail-oriented, and excellent interpersonal and leadership skills. 
+      I also possess a strong knowlege of social media tools as well as a vast amount of computer skills, which includes, Microsoft Office, Python, R Programming, and other applications.
+      I also have exemplary research, writing and communication skills, very detail-oriented, and excellent interpersonal and leadership skills. 
       Currently, I am a DBA candidate at Northcentral University where my thesis is centered on leadership and stress within the hospitality industry.
 
 education:
@@ -38,15 +38,15 @@ education:
       details: 
       
 experiences:
-    - role: Inside Sales Consultant
+    - role: Sales Consultant
       time: March 2016 to August 2016
       company: Durham Bulls Baseball Club 
       details: Managed customer accounts from several business organizations in the Durham/Raleigh/Chapel Hill area. 
                Collected funds and organized party essentials for each function.
-          - Sold Season Ticket Plans (Half and Full) to long time clients.
-          - Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
-          - Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
-          - Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
+               Sold Season Ticket Plans (Half and Full) to long time clients.
+               Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
+               Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
+               Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
 
 
     - role: Catering Manager
@@ -67,23 +67,26 @@ experiences:
           - Answered cold calls and responded to customer emails. 
 
 certifications: 
-     - title: Data Wrangling in R Programming 
-       time: September 2021
+       - title: Python Quick Start 
+         time: December 2021
+
+       - title: Data Wrangling in R Programming 
+         time: September 2021
        
-     - title: AI in Business Essential Training
-       time: September 2021
+       - title: AI in Business Essential Training
+         time: September 2021
      
-     - title: Business Intelligence for Consultants
-       time: September 2021
+       - title: Business Intelligence for Consultants
+         time: September 2021
      
-     - title: Learning R Programming 
-       time: September 2021 
+       - title: Learning R Programming 
+         time: September 2021 
+      
+       - title: Certified Hospitality Graduate 
+         time: December 2015
      
-     - title: Certified Hospitality Graduate 
-       time: December 2015
-     
-     - title: Cvent Supplier Network 
-       time: June 2015 
+       - title: Cvent Supplier Network 
+         time: June 2015 
 
 honors:
     - award: American Lodging Investment Summit Scholarship
