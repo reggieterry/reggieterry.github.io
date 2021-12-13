@@ -16,6 +16,54 @@ career-profile:
       I also have exemplary research, writing and communication skills, very detail-oriented, and excellent interpersonal and leadership skills. 
       Currently, I am a DBA candidate at Northcentral University where my thesis is centered on leadership and stress within the hospitality industry.
 
+skills: 
+     title: Skills and Compentencies
+
+     toolset:
+        - name: Microsoft Office Suites 
+          details: Proficient use of Microsoft Word, Excel, PowerPoint, and Teams 
+
+        - name: Leadership 
+          details: Held various leadership roles. 
+
+        - name: Public Speaking 
+          details:
+
+        - name: Event Planning
+          details: 
+
+        - name: Marketing and Sales 
+          details:
+
+        - name: Food Service/Catering Management
+          details:
+
+        - name: Hospitality Management
+          details:
+
+        - name: Inventory Management
+          details: 
+
+        - name: Strategic and Target Marketing 
+          details: 
+
+        - name: Guest Services Management
+          details: 
+
+        - name: Profit and Growth Strategies
+          details: 
+
+        - name: Budgeting and Cost Control 
+          details:
+
+        - name: Safety, Sanitation and Quality Control 
+          details:
+
+        - name: Teambuilding, Training, and Supervision 
+          details: 
+
+
+
 education:
     - degree: Doctorate in Business Administration 
       university: Northcentral University
@@ -27,11 +75,11 @@ education:
     - degree: Masters in Tourism and Hospitality Management
       university: Temple University
       time: 2016-2018 
-      details: Concentration in Marketing 
+      details: Concentration in Marketing/Revenue Management 
     - degree: Bachelor of Science, Hospitality and Tourism Administration
       university: North Carolina Central University 
       time: 2012-2015
-      details:  
+      details:  Focused on hotel and restaurant management
     - degree: Associate in Applied Science, Business Administration 
       university: Durham Technical Community College 
       time: 2009-2012
@@ -43,7 +91,7 @@ experiences:
       company: Durham Bulls Baseball Club 
       details: Managed customer accounts from several business organizations in the Durham/Raleigh/Chapel Hill area. 
                Analyzed target market and developed business relationships to bring in revenue to the organization.
-               Sold Season Ticket Plans (Half and Full) to long time clients.
+               Season Ticket Plans (Half and Full) to long time clients.
                Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
                Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
                Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
@@ -57,6 +105,15 @@ experiences:
                Prepare catering order forms to clients requirements and interests.
                Coordinate and manage catering operations. 
 
+
+    - role: Group Area Host 
+      time: May 2013 to August 2015 
+      company: Durham Bulls Athletic Park 
+      details: Assisted with ensuring group placement within the ballpark during baseball season 
+               Monitored group areas for suspicious activities 
+               Worked with teams and individually
+               Assisted organizations with guidance to their respected areas, collection of tickets, and general cleaning duties
+
     - role: Marketing Intern 
       time: May 2013 to August 2013
       company: Durham Convention Center 
@@ -66,6 +123,30 @@ experiences:
                Worked on proposals and contract writing for clients.
                Answered cold calls and responded to customer emails. 
 
+    - role: Event Planner/Parliamentarian 
+      time: May 2011 to May 2012 
+      company: North Carolina Comprehensive Community College Student Government Association 
+      details: Planned and conducted business conferences in the Fall/Spring for 300+ delegates and guests 
+               Coordination of room assignments for presenters and packaged gift bags for individuals
+               Ensured entertainment and prizes were distributed 
+               Maintained security and provided a memorable guest experience  
+
+    - role: Vice President/Parliamentarian
+      time: May 2011 to May 2012 
+      company: Durham Technical Community College Student Senate 
+      details: Assisted the President in facilitating business meetings 
+               Coordinated events with the Social Committee Chairperson 
+               Maintained records of attendence and meeting notes
+               Ensured use of proper rules of order for all meetings 
+
+Other Relevant Experiences:
+    - role: Computer Lab Monitor 
+      time: February 2010 to July 2012 
+      company: Durham Technical Community College
+      details: Support operations of college computer lab for students
+               Assisted with software and hardware issues 
+               Monitored usage of computers to ensure proper use
+               Maintained log of equipment failures and reported to IT Department 
 certifications: 
        - title: Python Quick Start 
          time: December 2021
@@ -116,7 +197,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microsoft 365 Suites 
+      - name: Microsoft Office Suites 
         level: 98%
 
       - name: Leadership 
@@ -128,11 +209,34 @@ skills:
       - name: Event Planning 
         level: 95%
 
-      - name: Marketing 
+      - name: Marketing/Sales
         level: 90% 
 
-      - name: Hospitality
-        level: 90%
+      - name: Hospitality Management 
+        level: 90% 
 
+      - name: Food Service/Catering Management
+        level:
+
+      - name: Budgeting and Cost Control 
+        level: 
+
+      - name: Inventory Management 
+        level: 
+
+      - name: Guest Services Management 
+        level: 
+
+      - name: Strategic and Target Management 
+        level:
+
+      - name: Profit and Growth Strategies
+        level: 
+
+      - name: Safety, Sanitation and Quality Control 
+        level: 
+
+      - name: Team Building, Training, Supervision 
+        level: 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
