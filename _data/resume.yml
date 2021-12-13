@@ -16,38 +16,6 @@ career-profile:
       I also have exemplary research, writing and communication skills, very detail-oriented, and excellent interpersonal and leadership skills. 
       Currently, I am a DBA candidate at Northcentral University where my thesis is centered on leadership and stress within the hospitality industry.
 
-skills: 
-     title: Skills and Compentencies
-
-     toolset:
-        - name: Microsoft Office Suites
-          description: |
-        - name: Leadership  
-
-        - name: Public Speaking
-
-        - name: Event Planning
-
-        - name: Marketing and Sales 
-
-        - name: Food Service/Catering Management
-
-        - name: Hospitality Management
-
-        - name: Inventory Management
-
-        - name: Strategic and Target Marketing
-
-        - name: Guest Services Management
-
-        - name: Profit and Growth Strategies
-
-        - name: Budgeting and Cost Control 
-
-        - name: Safety, Sanitation and Quality Control 
-
-        - name: Teambuilding, Training, and Supervision 
-
 education:
     - degree: Doctorate in Business Administration 
       university: Northcentral University
@@ -60,115 +28,129 @@ education:
       university: Temple University
       time: 2016-2018 
       details: Concentration in Marketing/Revenue Management 
+    
     - degree: Bachelor of Science, Hospitality and Tourism Administration
       university: North Carolina Central University 
       time: 2012-2015
       details:  Focused on hotel and restaurant management
+    
     - degree: Associate in Applied Science, Business Administration 
       university: Durham Technical Community College 
       time: 2009-2012
       details: 
       
-experiences:
+work_experiences:
     - role: Sales Consultant
       time: March 2016 to August 2016
       company: Durham Bulls Baseball Club 
-      details: Managed customer accounts from several business organizations in the Durham/Raleigh/Chapel Hill area. 
-               Analyzed target market and developed business relationships to bring in revenue to the organization.
-               Season Ticket Plans (Half and Full) to long time clients.
-               Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
-               Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
-               Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
+      details: |
+         - Managed customer accounts from several business organizations in the Durham/Raleigh/Chapel Hill area. 
+         - Analyzed target market and developed business relationships to bring in revenue to the organization.
+         - Season Ticket Plans (Half and Full) to long time clients.
+         - Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
+         - Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
+         - Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
 
     - role: Catering Manager
       time: October 2015 to March 2016 
       company: North Carolina Central University Dining Services
-      details: Assisted with implementing and organizing several different catering events around the campus.
-               Respond to various customer inquiries. Design and prepare placement settings for events.
-               Prepare catering order forms to clients requirements and interests.
-               Coordinate and manage catering operations. 
+      details: |
+         - Assisted with implementing and organizing several different catering events around the campus.
+         - Respond to various customer inquiries. Design and prepare placement settings for events.
+         - Prepare catering order forms to clients requirements and interests.
+         - Coordinate and manage catering operations. 
 
     - role: Group Area Host 
       time: May 2013 to August 2015 
       company: Durham Bulls Athletic Park 
-      details: Assisted with ensuring group placement within the ballpark during baseball season. 
-               Monitored group areas for suspicious activities. 
-               Worked with teams and individually.
-               Assisted organizations with guidance to their respected areas, collection of tickets, and general cleaning duties.
-
-    - role: Marketing Intern 
-      time: May 2013 to August 2013
-      company: Durham Convention Center 
-      details: Assisted marketing/sales department with advertising and promotions. -Build Social Media presentations. 
-               Collected and analyze data to help identify customer base. 
-               Assisted with daily procedures in the convention center.
-               Worked on proposals and contract writing for clients.
-               Answered cold calls and responded to customer emails. 
-
-    - role: Event Planner/Parliamentarian 
-      time: May 2011 to May 2012 
-      company: North Carolina Comprehensive Community College Student Government Association 
-      details: Planned and conducted business conferences in the Fall/Spring for 300+ delegates and guests. 
-               Coordination of room assignments for presenters and packaged gift bags for individuals.
-               Ensured entertainment and prizes were distributed. 
-               Maintained security and provided a memorable guest experience.  
-
-    - role: Vice President/Parliamentarian
-      time: May 2011 to May 2012 
-      company: Durham Technical Community College Student Senate 
-      details: Assisted the President in facilitating business meetings. 
-               Coordinated events with the Social Committee Chairperson. 
-               Maintained records of attendence and meeting notes.
-               Ensured use of proper rules of order for all meetings. 
-
-Other Relevant Experiences:
-    - role: Computer Lab Monitor 
-      time: February 2010 to July 2012 
-      company: Durham Technical Community College
-      details: Support operations of college computer lab for students.
-               Assisted with software and hardware issues. 
-               Monitored usage of computers to ensure proper use.
-               Maintained log of equipment failures and reported to IT Department. 
+      details: |
+        - Assisted with ensuring group placement within the ballpark during baseball season. 
+        - Monitored group areas for suspicious activities. 
+        - Worked with teams and individually.
+        - Assisted organizations with guidance to their respected areas, collection of tickets, and general cleaning duties.
 
     - role: Server/Bartender 
       time: February 2008 to July 2009
       company: Carolina Ale House 
-      details: Processed food and beverage orders for guests.
-               Ensured orders were completed and guests enjoyed their experience.
-               Handled cash and credit card transactions for guests.
-               Worked within a team atmosphere to ensure guest satisfaction. 
+      details: |
+        - Processed food and beverage orders for guests.
+        - Ensured orders were completed and guests enjoyed their experience.
+        - Handled cash and credit card transactions for guests.
+        - Worked within a team atmosphere to ensure guest satisfaction. 
 
     - role: Server 
       time: February 2002 to February 2008  
       company: Ruby Tuesdays
-      details: Processed food and beverage orders for guests.
-               Ensured orders were completed and guests enjoyed their experience.
-               Handled cash and credit card transactions for guests.
-               Worked within a team atmosphere to ensure guest satisfaction.
+      details: |
+        - Processed food and beverage orders for guests.
+        - Ensured orders were completed and guests enjoyed their experience.
+        - Handled cash and credit card transactions for guests.
+        - Worked within a team atmosphere to ensure guest satisfaction.
 
     - role: Server/Bartender
       time: March 1998 to January 2001
       company: Lone Star Steakhouse 
-      details: Processed food and beverage orders for guests.
-               Ensured orders were completed and guests enjoyed their experience.
-               Handled cash and credit card transactions for guests.
-               Worked within a team atmosphere to ensure guest satisfaction. 
+      details: |
+        - Processed food and beverage orders for guests.
+        - Ensured orders were completed and guests enjoyed their experience.
+        - Handled cash and credit card transactions for guests.
+        - Worked within a team atmosphere to ensure guest satisfaction. 
 
     - role: Shift Manager 
       time: January 1997 to March 1998 
       company: Pizza Hut 
-      details: Administered daily operations and ensure compliance with all company fiscal guidelines.
-               Maintain work environemt according to local and federal laws.
-               Designed all profitable strategies for all guests and maintain all cost controls. 
-               Monitored and ensured efficiency of restaurant operations and provided optimal customer experience. 
-               Implemented all action plans to achieve all business objectives and maintained customer experience. 
-               Developed various strategies to achieve financial objectives. 
-               Developed various human resource strategies for all employees to assist with optimal performance.
-               Assisted with training and development of new and current employees. 
-               Maintained all restaurant requirements and abided by current labor laws. 
-               Assisted with compliance of all OSHA requirements and prepared reports. 
-               Maintained all employee files and ensured accuracy and security. 
-               Prepared weekly and monthly records of operational statements and expenses. 
+      details: |
+        - Administered daily operations and ensure compliance with all company fiscal guidelines.
+        - Maintain work environemt according to local and federal laws.
+        - Designed all profitable strategies for all guests and maintain all cost controls. 
+        - Monitored and ensured efficiency of restaurant operations and provided optimal customer experience. 
+        - Implemented all action plans to achieve all business objectives and maintained customer experience. 
+        - Developed various strategies to achieve financial objectives. 
+        - Developed various human resource strategies for all employees to assist with optimal performance.
+        - Assisted with training and development of new and current employees. 
+        - Maintained all restaurant requirements and abided by current labor laws. 
+        - Assisted with compliance of all OSHA requirements and prepared reports. 
+        - Maintained all employee files and ensured accuracy and security. 
+        - Prepared weekly and monthly records of operational statements and expenses. 
+
+other_experiences:
+    - role: Computer Lab Monitor 
+      time: February 2010 to July 2012 
+      company: Durham Technical Community College
+      details: |
+        - Support operations of college computer lab for students.
+        - Assisted with software and hardware issues. 
+        - Monitored usage of computers to ensure proper use.
+        - Maintained log of equipment failures and reported to IT Department. 
+
+    - role: Marketing Intern 
+      time: May 2013 to August 2013
+      company: Durham Convention Center 
+      details: |
+        - Assisted marketing/sales department with advertising and promotions. -Build Social Media presentations. 
+        - Collected and analyze data to help identify customer base. 
+        - Assisted with daily procedures in the convention center.
+        - Worked on proposals and contract writing for clients.
+        - Answered cold calls and responded to customer emails. 
+
+    - role: Event Planner/Parliamentarian 
+      time: May 2011 to May 2012 
+      company: North Carolina Comprehensive Community College Student Government Association 
+      details: |
+        - Planned and conducted business conferences in the Fall/Spring for 300+ delegates and guests. 
+        - Coordination of room assignments for presenters and packaged gift bags for individuals.
+        - Ensured entertainment and prizes were distributed. 
+        - Maintained security and provided a memorable guest experience.  
+
+    - role: Vice President/Parliamentarian
+      time: May 2011 to May 2012 
+      company: Durham Technical Community College Student Senate 
+      details: |
+        - Assisted the President in facilitating business meetings. 
+        - Coordinated events with the Social Committee Chairperson. 
+        - Maintained records of attendence and meeting notes.
+        - Ensured use of proper rules of order for all meetings. 
+
                
 certifications: 
        - title: Python Quick Start 
@@ -216,50 +198,51 @@ relevant_docs:
       link: docs/Reference_Letter_2015.pdf
       description: Reference Letter from former Mens Achievement Center advisor 
 
-skills:
-    title: Skills &amp; Proficiency
+skills: 
+     title: Skills and Compentencies
 
-    toolset:
-      - name: Microsoft Office Suites 
-        level: 98%
+     toolset:
+        - name: Microsoft Office Suites
+          description: 
 
-      - name: Leadership 
-        level: 98%
+        - name: Leadership  
+          description: 
 
-      - name: Public Speaking 
-        level: 98%
+        - name: Public Speaking
+          description: 
 
-      - name: Event Planning 
-        level: 95%
+        - name: Event Planning
+          description: 
 
-      - name: Marketing/Sales
-        level: 90% 
+        - name: Marketing and Sales
+          description:  
 
-      - name: Hospitality Management 
-        level: 90% 
+        - name: Food Service/Catering Management
+          description: 
 
-      - name: Food Service/Catering Management
-        level: 95%
+        - name: Hospitality Management
+          description: 
 
-      - name: Budgeting and Cost Control 
-        level: 90%
+        - name: Inventory Management
+          description: 
 
-      - name: Inventory Management 
-        level: 90%
+        - name: Strategic and Target Marketing
+          description: 
 
-      - name: Guest Services Management 
-        level: 90%
+        - name: Guest Services Management
+          description: 
 
-      - name: Strategic and Target Management 
-        level: 95%
+        - name: Profit and Growth Strategies
+          description: 
 
-      - name: Profit and Growth Strategies
-        level: 90%
+        - name: Budgeting and Cost Control
+          description: 
 
-      - name: Safety, Sanitation and Quality Control 
-        level: 90%
+        - name: Safety, Sanitation and Quality Control
+          description: 
 
-      - name: Team Building, Training, Supervision 
-        level: 95%
+        - name: Teambuilding, Training, and Supervision 
+          description: 
+
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
