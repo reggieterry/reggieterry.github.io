@@ -20,49 +20,33 @@ skills:
      title: Skills and Compentencies
 
      toolset:
-        - name: Microsoft Office Suites 
-          details: Proficient use of Microsoft Word, Excel, PowerPoint, and Teams 
+        - name: Microsoft Office Suites
 
-        - name: Leadership 
-          details: Held various leadership roles. 
+        - name: Leadership  
 
-        - name: Public Speaking 
-          details:
+        - name: Public Speaking
 
         - name: Event Planning
-          details: 
 
         - name: Marketing and Sales 
-          details:
 
         - name: Food Service/Catering Management
-          details:
 
         - name: Hospitality Management
-          details:
 
         - name: Inventory Management
-          details: 
 
-        - name: Strategic and Target Marketing 
-          details: 
+        - name: Strategic and Target Marketing
 
         - name: Guest Services Management
-          details: 
 
         - name: Profit and Growth Strategies
-          details: 
 
         - name: Budgeting and Cost Control 
-          details:
 
         - name: Safety, Sanitation and Quality Control 
-          details:
 
         - name: Teambuilding, Training, and Supervision 
-          details: 
-
-
 
 education:
     - degree: Doctorate in Business Administration 
@@ -96,7 +80,6 @@ experiences:
                Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
                Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
 
-
     - role: Catering Manager
       time: October 2015 to March 2016 
       company: North Carolina Central University Dining Services
@@ -105,14 +88,13 @@ experiences:
                Prepare catering order forms to clients requirements and interests.
                Coordinate and manage catering operations. 
 
-
     - role: Group Area Host 
       time: May 2013 to August 2015 
       company: Durham Bulls Athletic Park 
-      details: Assisted with ensuring group placement within the ballpark during baseball season 
-               Monitored group areas for suspicious activities 
-               Worked with teams and individually
-               Assisted organizations with guidance to their respected areas, collection of tickets, and general cleaning duties
+      details: Assisted with ensuring group placement within the ballpark during baseball season. 
+               Monitored group areas for suspicious activities. 
+               Worked with teams and individually.
+               Assisted organizations with guidance to their respected areas, collection of tickets, and general cleaning duties.
 
     - role: Marketing Intern 
       time: May 2013 to August 2013
@@ -126,27 +108,67 @@ experiences:
     - role: Event Planner/Parliamentarian 
       time: May 2011 to May 2012 
       company: North Carolina Comprehensive Community College Student Government Association 
-      details: Planned and conducted business conferences in the Fall/Spring for 300+ delegates and guests 
-               Coordination of room assignments for presenters and packaged gift bags for individuals
-               Ensured entertainment and prizes were distributed 
-               Maintained security and provided a memorable guest experience  
+      details: Planned and conducted business conferences in the Fall/Spring for 300+ delegates and guests. 
+               Coordination of room assignments for presenters and packaged gift bags for individuals.
+               Ensured entertainment and prizes were distributed. 
+               Maintained security and provided a memorable guest experience.  
 
     - role: Vice President/Parliamentarian
       time: May 2011 to May 2012 
       company: Durham Technical Community College Student Senate 
-      details: Assisted the President in facilitating business meetings 
-               Coordinated events with the Social Committee Chairperson 
-               Maintained records of attendence and meeting notes
-               Ensured use of proper rules of order for all meetings 
+      details: Assisted the President in facilitating business meetings. 
+               Coordinated events with the Social Committee Chairperson. 
+               Maintained records of attendence and meeting notes.
+               Ensured use of proper rules of order for all meetings. 
 
 Other Relevant Experiences:
     - role: Computer Lab Monitor 
       time: February 2010 to July 2012 
       company: Durham Technical Community College
-      details: Support operations of college computer lab for students
-               Assisted with software and hardware issues 
-               Monitored usage of computers to ensure proper use
-               Maintained log of equipment failures and reported to IT Department 
+      details: Support operations of college computer lab for students.
+               Assisted with software and hardware issues. 
+               Monitored usage of computers to ensure proper use.
+               Maintained log of equipment failures and reported to IT Department. 
+
+    - role: Server/Bartender 
+      time: February 2008 to July 2009
+      company: Carolina Ale House 
+      details: Processed food and beverage orders for guests.
+               Ensured orders were completed and guests enjoyed their experience.
+               Handled cash and credit card transactions for guests.
+               Worked within a team atmosphere to ensure guest satisfaction. 
+
+    - role: Server 
+      time: February 2002 to February 2008  
+      company: Ruby Tuesdays
+      details: Processed food and beverage orders for guests.
+               Ensured orders were completed and guests enjoyed their experience.
+               Handled cash and credit card transactions for guests.
+               Worked within a team atmosphere to ensure guest satisfaction.
+
+    - role: Server/Bartender
+      time: March 1998 to January 2001
+      company: Lone Star Steakhouse 
+      details: Processed food and beverage orders for guests.
+               Ensured orders were completed and guests enjoyed their experience.
+               Handled cash and credit card transactions for guests.
+               Worked within a team atmosphere to ensure guest satisfaction. 
+
+    - role: Shift Manager 
+      time: January 1997 to March 1998 
+      company: Pizza Hut 
+      details: Administered daily operations and ensure compliance with all company fiscal guidelines.
+               Maintain work environemt according to local and federal laws.
+               Designed all profitable strategies for all guests and maintain all cost controls. 
+               Monitored and ensured efficiency of restaurant operations and provided optimal customer experience. 
+               Implemented all action plans to achieve all business objectives and maintained customer experience. 
+               Developed various strategies to achieve financial objectives. 
+               Developed various human resource strategies for all employees to assist with optimal performance.
+               Assisted with training and development of new and current employees. 
+               Maintained all restaurant requirements and abided by current labor laws. 
+               Assisted with compliance of all OSHA requirements and prepared reports. 
+               Maintained all employee files and ensured accuracy and security. 
+               Prepared weekly and monthly records of operational statements and expenses. 
 certifications: 
        - title: Python Quick Start 
          time: December 2021
