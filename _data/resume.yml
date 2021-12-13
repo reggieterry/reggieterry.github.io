@@ -151,6 +151,14 @@ other_experiences:
         - Maintained records of attendence and meeting notes.
         - Ensured use of proper rules of order for all meetings. 
 
+    -role: Student Presenter 
+     time: May 2010  
+     company: North Carolina Community College System 
+     details: |
+       - Presented to 80 state government officials on the importance of community colleges. 
+       - Spoke on behalf of the North Carolina Community Colleges. 
+       - Talked about my history with community colleges and how they halped me grow. 
+
                
 certifications: 
        - title: Python Quick Start 
@@ -203,16 +211,25 @@ skills:
 
      toolset:
         - name: Microsoft Office Suites
-          description: 
+          description: |
+          - Extensive knowledge on the functionality of Word, Excel, and PowerPoint.
+          - Ability to create clean documents for reporting information. 
+          - Understand the full use of spreadsheets and tables. 
+          - Create presentations for various meetings, conferences, and courses.   
 
         - name: Leadership  
-          description: 
+          description: |
+          - Ability to influence groups or individuals to meet a common goal. 
+          - Empower and guide followers to help develop their leadership skill. 
 
         - name: Public Speaking
-          description: 
+          description: |
+          - Effective communication to persuade individuals.
+          - Broke down complex concepts to help identify information to the masses. 
 
         - name: Event Planning
-          description: 
+          description: |
+          - 
 
         - name: Marketing and Sales
           description:  
