@@ -12,6 +12,8 @@
     https://drive.google.com/file/d/{{ video_id }}/preview
   {% when "bilibili" %}
     https://player.bilibili.com/player.html?bvid={{ video_id }}&page=1&as_wide=1&high_quality=1&danmaku={{ video_danmaku }}
+  {% else %}
+    {{ include.src }}
   {% endcase %}
 {% endcapture %}
 {% assign video_src = video_src | strip %}

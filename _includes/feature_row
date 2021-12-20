@@ -19,6 +19,12 @@
           </div>
         {% endif %}
 
+        {% if f.content %}
+          <div class="archive__item-teaser">
+            {{ f.content | markdownify}}
+          </div>
+        {% endif %}
+
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
