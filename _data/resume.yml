@@ -48,8 +48,9 @@ work_experiences:
     - role: Graduate Researcher
       time: June 2018 to May 2022 
       details: |
-         - Insert Description of research here
-         - Used R for data analysis and visualization
+         - Developed study looking at how transformational leadership can affect job stress in the hospitality industry. 
+         - Used R for data analysis and visualization.
+         - Created web scraping program via Python to gather different types of recipes to upload into cooklang program. 
 
     - role: Sales Consultant
       time: March 2016 to August 2016
@@ -226,19 +227,19 @@ skills:
      toolset:
         - name: Strategic and Target Marketing Skills 
           description: |
-            - provide a statement(s) that explain this skill you have developed or used
-            - Insert statement about profit and growth strategy development
+            - Used strategic marketing to gain insight on various hospitality/business ideas
+            - Created presentations outlining the profit and growth of the ballpark during the summer. 
 
         - name: Hospitality Management
           description: |
-            - insert skills related to hospitality management under the context of marketing (aka how does this relate to marketing). 
-            - insert skills related to guest services that are grouped under hospitality management
-            - insert other relevant statemnts 
+            - Knowledge of how the customer reacts to certain products and services within the industry. 
+            - Determined how the customer reacted to situations and ensured guest satisfaction of product.
+            - Analyzed results from data collection and assisted with visualization of presentations to achieve stakeholder satisfaction.
         
         - name: Budgeting and Cost Control
           description: |
-            - Insert your experience on payroll 
-            - Insert your experience with any other company finances that you know of 
+            - Implemented all payroll and financial transactions for clients/guests.
+            - Assisted with development of new transaction/payroll systems within various organizations.  
         
         - name: Public Relations/Social Media
           description: |
