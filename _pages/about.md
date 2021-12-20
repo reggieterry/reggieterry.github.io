@@ -4,12 +4,13 @@ layout: single
 title: About
 ---
 
-Reginald is a highly motivated, creative, and aspiring market research analyst with fifteen (15) years of extensive experience in the Hospitality Industry. 
-He has experience in food service, payroll, employee training and development, public relations, and strategic planning.
-He possess strong knowledge of social media tools and robust computer skills, which includes but is not limited to proficiency in Word, spreadsheets, graphics, and applications. 
-Reginald has exemplary writing and verbal communication skills, am detail-oriented and have the ability to multi-task. I have excellent interpersonal and leadership skills, troubleshooting, and problem-solving abilities.
+Reginald is a marketing/sales consultant with fifteen 15+ years of extensive experience in the Hospitality Industry. 
+His experience involves handling public relations, managing/training employees, maintaining payroll, and spearheading food services for companies.
+He possesses strong knowledge of social media tools and a moderate amount of programming experience, specifically in data analysis and visualization.
+Furthermore, Reginald has exemplary research, writing, and communication skills, along with excellent interpersonal and leadership skills. 
 
-He is working on his Doctorate in Business Administration from Northcentral University where his dissertation thesis focuses on transformational leadership and job stress in the hospitality industry. 
+Currently, he is working on his Doctorate in Business Administration at Northcentral University.
+His dissertation focuses on analyzing contrastive leadership styles within the hospitality industry.
+More specifically, he is interested in empirically finding out which style best suits this diverse industry.
 When not writing his thesis, he enjoys spending time with family and investing in the stock market. 
-
 
