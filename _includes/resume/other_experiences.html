@@ -9,28 +9,54 @@
     Other Relevant Experiences
   </h2>
 
+  {% if page.url == '/resume/' %}
+    {% for experience in experiences limit: 2 %}
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="job-title">{{ experience.role }}</h3>
+          <div class="time">{{ experience.time }}</div>
+        </div><!--//upper-row-->
+
+        <div class="company">{{ experience.company }}</div>
+
+      </div><!--//meta-->
+
+      {% if experience.details %}
+      <div class="details">
+        {{ experience.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+  {% else %}
   {% for experience in experiences %}
-  <div class="item">
+    <div class="item">
 
-    <div class="meta">
+      <div class="meta">
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
+        <div class="upper-row">
+          <h3 class="job-title">{{ experience.role }}</h3>
+          <div class="time">{{ experience.time }}</div>
+        </div><!--//upper-row-->
 
-      <div class="company">{{ experience.company }}</div>
+        <div class="company">{{ experience.company }}</div>
 
-    </div><!--//meta-->
+      </div><!--//meta-->
 
-    {% if experience.details %}
-    <div class="details">
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
+      {% if experience.details %}
+      <div class="details">
+        {{ experience.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+  {% endif %}
+  </section><!--//section-->
     {% endif %}
 
-  </div><!--//item-->
-  {% endfor %}
-
-</section><!--//section-->
-{% endif %}

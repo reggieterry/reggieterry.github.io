@@ -10,29 +10,34 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Highly motivated, creative, and aspiring market research analyst with fifteen (15) years of extensive experience in the hospitality industry.
-      My hospitality experience revolves around food service, payroll, employee training and development, management and public relations. 
-      I also possess a strong knowlege of social media tools as well as a vast amount of computer skills, which includes, Microsoft Office, Python, R Programming, and other applications.
-      I also have exemplary research, writing and communication skills, very detail-oriented, and excellent interpersonal and leadership skills. 
-      Currently, I am a DBA candidate at Northcentral University where my thesis is centered on leadership and stress within the hospitality industry.
+      Marketing/Sales consultant with 15+ years of experience in the hospitality industry is seeking to career change into marketing analytics.
+      Most of my experience involved handling public relations, managing/training employees, maintaining payroll, and spearheading food services for companies.
+      I possess vast knowledge of social media tools and a moderate amount of programming experience specifically in data analysis and visualization.
+      Furthermore, I have exemplary research, writing, and communication skills, along with excellent interpersonal and leadership skills. 
 
+resume-summary: 
+    title: Summary
+    summary: |
+      Marketing/Sales consultant with 15+ years of experience in the hospitality industry is seeking to career change into marketing analytics.
+      Most of my experience involved handling public relations, managing/training employees, maintaining payroll, and spearheading food services for companies.
+      I possess vast knowledge of social media tools and a moderate amount of programming experience specifically in data analysis and visualization.
+      Furthermore, I have exemplary research, writing, and communication skills, along with excellent interpersonal and leadership skills. 
+  
 education:
-    - degree: Doctorate in Business Administration 
+    - degree: Doctoral Candidate in Business Administration 
       university: Northcentral University
       time: 2018-2022
-      details: |
-        My focus is on transformational leadership and job stress in the hospitality industry. 
-        I am looking at how the use of transformational leadership can effect job stress and burnout.
+      details: 
 
-    - degree: Masters in Tourism and Hospitality Management
+    - degree: Masters in Tourism and Hospitality Management (Concentration in Marketing/Revenue Management)
       university: Temple University
       time: 2016-2018 
-      details: Concentration in Marketing/Revenue Management 
+      details:  
     
     - degree: Bachelor of Science, Hospitality and Tourism Administration
       university: North Carolina Central University 
       time: 2012-2015
-      details:  Focused on hotel and restaurant management
+      details:
     
     - degree: Associate in Applied Science, Business Administration 
       university: Durham Technical Community College 
@@ -40,6 +45,12 @@ education:
       details: 
       
 work_experiences:
+    - role: Graduate Researcher
+      time: June 2018 to May 2022 
+      details: |
+         - Insert Description of research here
+         - Used R for data analysis and visualization
+
     - role: Sales Consultant
       time: March 2016 to August 2016
       company: Durham Bulls Baseball Club 
@@ -116,15 +127,6 @@ work_experiences:
         - Prepared weekly and monthly records of operational statements and expenses. 
 
 other_experiences:
-    - role: Computer Lab Monitor 
-      time: February 2010 to July 2012 
-      company: Durham Technical Community College
-      details: |
-        - Support operations of college computer lab for students.
-        - Assisted with software and hardware issues. 
-        - Monitored usage of computers to ensure proper use.
-        - Maintained log of equipment failures and reported to IT Department. 
-
     - role: Marketing Intern 
       time: May 2013 to August 2013
       company: Durham Convention Center 
@@ -134,7 +136,16 @@ other_experiences:
         - Collected and analyze data to help identify customer base. 
         - Assisted with daily procedures in the convention center.
         - Worked on proposals and contract writing for clients.
-        - Answered cold calls and responded to customer emails. 
+        - Answered cold calls and responded to customer emails.
+
+    - role: Computer Lab Monitor 
+      time: February 2010 to July 2012 
+      company: Durham Technical Community College
+      details: |
+        - Support operations of college computer lab for students.
+        - Assisted with software and hardware issues. 
+        - Monitored usage of computers to ensure proper use.
+        - Maintained log of equipment failures and reported to IT Department.  
 
     - role: Event Planner/Parliamentarian 
       time: May 2011 to May 2012 
@@ -213,93 +224,42 @@ skills:
      title: Skills and Compentencies
 
      toolset:
-        - name: Microsoft Office Suites
+        - name: Strategic and Target Marketing Skills 
           description: |
-            - Extensive knowledge on the functionality of Word, Excel, and PowerPoint.
-            - Ability to create clean documents for reporting information. 
-            - Understand the full use of spreadsheets and tables. 
-            - Create presentations for various meetings, conferences, and courses.   
-
-        - name: Leadership  
-          description: |
-            - Ability to influence groups or individuals to meet a common goal. 
-            - Empower and guide followers to help develop their leadership skill. 
-
-        - name: Public Speaking
-          description: |
-            - Effective communication to persuade individuals.
-            - Broke down complex concepts to help identify information to the masses. 
-
-        - name: Event Planning
-          description: |
-            - Passion for planning events and functions. 
-            - Effective organizational skills. 
-            - Ability to multitask and great problem-solving skills. 
-
-        - name: Marketing and Sales
-          description:  |
-            - Strong communication skills.
-            - Great business acumen. 
-            - Ability to be active listener.
-            - Effective time management skills. 
-
-        - name: Food Service/Catering Management
-          description: |
-            - Strong customer service skills. 
-            - Effective communication and organizational skills. 
-            - Great at problem-solving and very detail-oriented.
+            - provide a statement(s) that explain this skill you have developed or used
+            - Insert statement about profit and growth strategy development
 
         - name: Hospitality Management
           description: |
-            - Ability to adapt to any given situation. 
-            - Effective multitasking and communication skills. 
-            - Attention to detail. 
-            - Teamwork and problem-solving skills. 
-
-        - name: Inventory Management
-          description: |
-            - Effective verbal and written communication skills.
-            - Organizational and logistics skills. 
-            - Great at problem solving.
-            - Very team oriented and great at interpersonal relationships.
-
-        - name: Strategic and Target Marketing
-          description: |
-            - Effective at analyzing data. 
-            - Attention to detail.
-            - Very creative and solve problems. 
-
-        - name: Guest Services Management
-          description: |
-            - Ability to adapt to any given situation. 
-            - Effective multitasking and communication skills. 
-            - Attention to detail. 
-            - Teamwork and problem-solving skills.
-
-        - name: Profit and Growth Strategies
-          description: |
-            - Effective at analyzing data. 
-            - Attention to detail.
-            - Very creative and solve problems. 
-
+            - insert skills related to hospitality management under the context of marketing (aka how does this relate to marketing). 
+            - insert skills related to guest services that are grouped under hospitality management
+            - insert other relevant statemnts 
+        
         - name: Budgeting and Cost Control
           description: |
-            - Strong communication skills.
-            - Great business acumen. 
-            - Ability to be active listener.
-            - Effective time management skills. 
-
-        - name: Safety, Sanitation and Quality Control
+            - Insert your experience on payroll 
+            - Insert your experience with any other company finances that you know of 
+        
+        - name: Public Relations/Social Media
           description: |
-            - Strong technical and writing skills.
-            - implementation skills that are related to food safety and quality.
-            - Effective mentoring and developing cross-functional employee base.
+            - Used Facebook and Linkedin to promote participation in surveys
+            - insert other usecases that show your skills in using social media or public relations
 
-        - name: Teambuilding, Training, and Supervision 
+        - name: Public Speaking
           description: |
-            - Brainstorming new ideas. 
-            - Effective mediation, negotiation, and conflict resolution skills. 
-            - Great at analyzing situations that help build teamwork.
+            - Broke down complex concepts to explain key ideas to stakeholders and conference audiences
+            - Effective communication to motivate employees to increase output on various hospitality tasks.
+
+        - name: Microsoft Office Suites (Word, Excel, and Powerpoint)
+          description: |
+            - Ability to create clean documents for reporting information. 
+            - Assembled spreadsheets and tables to report results from data analyses.
+            - Created presentations for conferences and key stakeholders.
+        
+        - name: R
+          description: |
+            -  Performed data manipulation (dplyr) to analyze survey responses
+            -  Used data analysis (ggplot) to display survey results
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

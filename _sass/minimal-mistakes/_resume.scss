@@ -1,7 +1,5 @@
 .resume {
   font-size: 15px;
-  margin-top: 1em;
-  margin-bottom: 2em;
 
   @include breakpoint($large) {
     float: right;
@@ -140,10 +138,10 @@
             height: 12px;
             background: lighten($primary-color, 5%);
         }
+        .print_only{
+            display: none;
+        }
     }
 
-    .print_only{
-        display: none;
-
-    }
+    
 }
