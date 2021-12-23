@@ -225,38 +225,15 @@ skills:
      title: Skills and Compentencies
 
      toolset:
+      - skill_group:
         - name: Strategic and Target Marketing Skills 
-          description: |
-            - Used strategic marketing to gauge target markets for hospitality startups. 
-            - Created presentations outlining the profit and growth of the ballpark during the summer. 
-
         - name: Hospitality Management
-          description: |
-            - Expanded knowledge of how the customer reacts to certain products and services within the industry. 
-            - Determined how the customer reacted to situations and ensured guest satisfaction of product.
-            - Analyzed results from data collection and assisted with visualization of presentations to achieve stakeholder satisfaction.
-        
-        - name: Budgeting and Cost Control
-          description: |
-            - Implemented all payroll and financial transactions for clients/guests.
-            - Assisted with development of new transaction/payroll systems within various organizations.  
-        
-        - name: Public Relations/Social Media
-          description: |
-            - Used Facebook and Linkedin to promote participation in hospitality and leadership surveys.
-            - Promoted various hospitality businesses and industries via Facebook, LinkedIn, and Instagram. 
-            - Promotion of current news and ideas about hospitality startups on Twitter.
-
+        - name: Budgeting and Cost Control   
+      - skill_group:  
+        - name: Public Relations/Social Media 
         - name: Microsoft Office Suites (Word, Excel, and Powerpoint)
-          description: |
-            - Ability to create clean documents for reporting information. 
-            - Assembled spreadsheets and tables to report results from data analyses.
-            - Created presentations for conferences and key stakeholders.
-        
+      - skill_group: 
         - name: R
-          description: |
-            -  Performed data manipulation (dplyr) to analyze survey responses
-            -  Used data analysis (ggplot) to display survey results
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
