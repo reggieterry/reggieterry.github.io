@@ -8,20 +8,24 @@
     </span>
     Certifications
   </h2>
-  {% for cert in certifications %}
-  <div class="item">
+  <ul>
+    {% for cert in certifications %}
+    <li>
+      <div class="item">
 
-    <div class="meta">
+        <div class="meta">
 
-      <div class="upper-row">
-        <h3 class="award-title">{{ cert.title }}</h3>
-        <div class="time">{{ cert.time }}</div>
-      </div><!--//upper-row-->
+          <div class="upper-row">
+            <h3 class="award-title">{{ cert.title }}</h3>
+            <div class="time">{{ cert.time }}</div>
+          </div><!--//upper-row-->
 
-    </div><!--//meta-->
+        </div><!--//meta-->
 
-  </div><!--//item-->
-  {% endfor %}
+      </div><!--//item-->
+    </li>
+      {% endfor %}
+  </ul>
 
 </section><!--//section-->
 {% endif %}

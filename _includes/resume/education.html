@@ -1,6 +1,6 @@
 {% assign education = site.data.resume.education %}
 {% if education %}
-  {% if site.data.resume.sidebar.education %}
+  {% if site.data.resume.sidebar.education %}x
   <div class="education-container container-block">
 
     <h2 class="container-block-title">
@@ -26,8 +26,9 @@
       </span>
       Education
     </h2>
-
+    <ul>
     {% for graduation in education %}
+    <li>
     <div class="item">
 
       <div class="meta">
@@ -47,7 +48,9 @@
       {% endif %}
 
     </div><!--//item-->
+    </li>
     {% endfor %}
+  </ul>
 
   </section><!--//section-->
   {% endif %}

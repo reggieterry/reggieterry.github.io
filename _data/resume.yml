@@ -18,16 +18,15 @@ career-profile:
 resume-summary: 
     title: Summary
     summary: |
-      Marketing/Sales consultant with experience in the hospitality industry is seeking career change. 
-      Experience handling public relations, managing/training employees, maintaining payroll, and spearheading food services for companies.
-      Knowledge of social media tools and moderate programming experience, specifically in data analysis and visualization.
+      Marketing/Sales consultant with 20+ experience in the hospitality industry.
+
 education:
     - degree: Doctoral Candidate in Business Administration 
       university: Northcentral University
       time: May 2022
       details: 
 
-    - degree: Masters in Tourism and Hospitality Management (Concentration in Marketing/Revenue Management)
+    - degree: Masters in Tourism and Hospitality Management
       university: Temple University
       time: May 2018 
       details:  
@@ -227,10 +226,10 @@ skills:
         - name: Strategic and Target Marketing Skills 
         - name: Hospitality Management
         - name: Budgeting and Cost Control   
-      - skill_group:  
+      - skill_group:
         - name: Public Relations/Social Media 
         - name: Microsoft Office Suites (Word, Excel, and Powerpoint)
-      - skill_group: 
+      - skill_group:
         - name: R
 
 footer: >

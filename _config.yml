@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Reginald Terry"
   avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring market research analyst with a focus on various marketing analytics concepts and techniques"
-  location         : "Philadelphia, PA"
+  bio              : "Marketing/Sales consultant with a focus on various marketing analytic techniques and concepts"
+  location         : 
   email            : 
   links:
     - label: "Email"
@@ -129,6 +129,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/reggieterry"
+    - label: "Portfolio"
+      icon: "fas fa-portrait"
+      url: "https://reggieterry.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

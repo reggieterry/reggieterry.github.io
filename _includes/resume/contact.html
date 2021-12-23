@@ -17,11 +17,14 @@
     {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
-            {% if link.label == 'Email' %}
+            {% case link.label %}
+            {% when 'Email' %}
             <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }} ({{ link.url | remove: "mailto:" }})</span></a></li>
+            {% when 'Twitter' %}
+            <li class="no_print"><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
             {% else %}
             <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
-            {% endif %}
+            {% endcase %}
           {% endif %}
         {% endfor %}
       {% endif %}

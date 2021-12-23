@@ -11,51 +11,14 @@
   </h2>
 
   <div class="skillset">
-    {% if page.url == '/resume/' %}
-    {% for skill in skills.toolset limit: 99 %}
-    <div class="item">
-
-    <div class="meta">
-
-      <div class="upper-row">
-        <h3 class="job-title">{{ skill.name }}</h3>
-      </div><!--//upper-row-->
-
-    </div><!--//meta-->
-
-    {% if skill.description %}
-    <div class="details">
-      {{ skill.description | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-
-  </div><!--//item-->
+    {% for skill_set in skills.toolset %}
+      <ul>
+        {% for skill in skill_set.skill_group %}
+        <li class="job-title">{{ skill.name }}</li>
+        {% endfor %}
+      </ul>
     {% endfor %}
-
-    {% else %}
-    {% for skill in skills.toolset %}
-    <div class="item">
-
-      <div class="meta">
-
-        <div class="upper-row">
-          <h3 class="job-title">{{ skill.name }}</h3>
-        </div><!--//upper-row-->
-
-      </div><!--//meta-->
-
-      {% if skill.description %}
-      <div class="details">
-        {{ skill.description | markdownify }}
-      </div><!--//details-->
-      {% endif %}
-
-    </div><!--//item-->
-    {% endfor %}
-
-    {% endif %}
-
   </div>
 
-</section><!--//skills-section-->
+</section>
 {% endif %}

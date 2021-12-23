@@ -34,7 +34,11 @@
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
+            {% if link.label == 'Portfolio' %}
+            <li class="print_only"><a href="{{ link.url }}" rel="nofollow noopener noreferrer me" target="_blank"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+            {% else %}
             <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me" target="_blank"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+            {% endif %}
           {% endif %}
         {% endfor %}
       {% endif %}
@@ -78,7 +82,7 @@
       {% endif %}
 
       {% if author.twitter %}
-        <li>
+        <li >
           <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span>
           </a>

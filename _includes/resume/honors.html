@@ -10,7 +10,9 @@
   </h2>
 
   {% if page.url == '/resume/' %}
+    <ul>
     {% for honor in honors limit: 3 %}
+    <li>
     <div class="item">
 
       <div class="meta">
@@ -29,8 +31,9 @@
       {% endif %}
 
     </div><!--//item-->
+  </li>
     {% endfor %}
-
+  </ul>
   {% else %}
     {% for honor in honors %}
     <div class="item">

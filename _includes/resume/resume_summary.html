@@ -9,10 +9,12 @@
     </span>
     {{ resume-summary.title }}
   </h2>
-
-  <div class="summary">
-    {{ resume-summary.summary | markdownify }}
-  </div><!--//summary-->
-
+  <ul>
+    <li>
+      <div class="summary">
+        {{ resume-summary.summary | markdownify }}
+      </div><!--//summary-->
+    </li>
+  </ul>
 </section><!--//section-->
 {% endif %}

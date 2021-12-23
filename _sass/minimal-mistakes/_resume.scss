@@ -32,28 +32,31 @@
   }
 
   .section-title {
-            text-transform: uppercase;
-            font-size: 18px;
-            font-weight: 500;
-            color: darken($primary-color, 15%);
-            position: relative;
-            margin-top: 0;
-            margin-bottom: 20px;
-    }
-
-    .section {
-        margin-bottom: 60px;
+        text-transform: uppercase;
+        font-size: 18px;
+        font-weight: 500;
+        color: darken($primary-color, 15%);
+        position: relative;
     }
 
     .experiences-section, .educations-section {
         .item {
-            margin-bottom: 30px;
+            margin-bottom: 2px;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        p{
+            margin: 0 !important;
         }
     }
+
     .upper-row {
         position: relative;
         overflow: hidden;
-        margin-bottom: 2px;
+        margin-bottom: 0px;
     }
 
     .award-title {
@@ -79,11 +82,13 @@
         top: 0;
         color: $muted-text-color;
     }
+    
     .company, .university {
         margin-bottom: 10px;
         color: $muted-text-color;
     }
 
+    
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -91,6 +96,7 @@
         margin-bottom: 5px;
         color: darken($primary-color, 15%);
     }
+    
     .projects-section {
         .intro {
             margin-bottom: 30px;
@@ -111,37 +117,25 @@
         color: $muted-text-color;
         margin-bottom: 1px;
     }
+
     .publications-section {
         .intro {
-            margin-bottom: 30px;
+            margin-bottom: 0px;
         }
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 0px;
         }
     }
 
     .skillset {
-        .item {
-            margin-bottom: 15px;
-            overflow: hidden;
-        }
-        .level-title {
-            font-size: 14px;
-            margin-top: 0;
-            margin-bottom: 12px;
-        }
-        .level-bar {
-            height: 12px;
-            background: #dcdcdc;
-        }
-        .level-bar-inner {
-            height: 12px;
-            background: lighten($primary-color, 5%);
-        }
-        .print_only{
-            display: none;
+        ul {
+            display: inline-block;
+            margin: 0px;
         }
     }
 
-    
+}
+
+.print_only {
+    display: none;
 }

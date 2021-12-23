@@ -9,10 +9,12 @@
     </span>
     {{ career-profile.title }}
   </h2>
-
-  <div class="summary">
-    {{ career-profile.summary | markdownify }}
-  </div><!--//summary-->
-    
+  <ul>
+    <li>
+      <div class="summary">
+        {{ career-profile.summary | markdownify }}
+      </div><!--//summary-->
+    </li>
+  </ul>
 </section><!--//section-->
 {% endif %}
