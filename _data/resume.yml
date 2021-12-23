@@ -18,7 +18,7 @@ career-profile:
 resume-summary: 
     title: Summary
     summary: |
-      Marketing/Sales consultant with 15+ years of experience in the hospitality industry is seeking to career change into marketing analytics.
+      Marketing/Sales consultant with experience in the hospitality industry is seeking to career change into marketing analytics.
       Most of my experience involved handling public relations, managing/training employees, maintaining payroll, and spearheading food services for companies.
       I possess vast knowledge of social media tools and moderate programming experience, specifically in data analysis and visualization.
       Furthermore, I have exemplary research, writing, and communication skills, along with excellent interpersonal and leadership skills. 
@@ -26,7 +26,7 @@ resume-summary:
 education:
     - degree: Doctoral Candidate in Business Administration 
       university: Northcentral University
-      time: 2018-2022
+      time: May 2022
       details: 
 
     - degree: Masters in Tourism and Hospitality Management (Concentration in Marketing/Revenue Management)
@@ -128,7 +128,7 @@ work_experiences:
         - Prepared weekly and monthly records of operational statements and expenses. 
 
 other_experiences:
-    - role: Marketing Intern 
+    - role: Marketing Consultant (Part-Time)
       time: May 2013 to August 2013
       company: Durham Convention Center 
       details: |
