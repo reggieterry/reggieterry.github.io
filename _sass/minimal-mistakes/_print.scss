@@ -141,7 +141,7 @@
   ol,
   a,
   tr {
-    page-break-inside: avoid;
+    page-break-inside: auto;
   }
 
   h2,
@@ -347,7 +347,8 @@
       ul {
           display: block;
           margin-left:auto;
-          margin-right:auto
+          margin-right:auto;
+          margin-top:0em;
       }
     }
 
