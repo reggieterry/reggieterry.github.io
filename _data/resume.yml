@@ -45,9 +45,9 @@ work_experiences:
     - role: Graduate Researcher
       time: June 2018 to May 2022 
       details: |
-         - Developed study looking at how transformational leadership affects job stress in the hospitality industry. 
-         - Used R for data analysis and visualization.
-         - Created web scraping program via Python to gather different types of recipes to upload into cooklang program. 
+         - Devised a study that looks into transformational leadership in the hospitality industry and achieved a total response of 36 participants. 
+         - Used R to analyze and create a visual representation of the effects of transforamtional leadership within the hospitality industry.
+         - Created program via Python to gather and sort recipes from the web and can be uploaded into the cooklang program. 
 
     - role: Sales Consultant
       time: March 2016 to August 2016
