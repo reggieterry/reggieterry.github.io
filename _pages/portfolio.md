@@ -6,8 +6,8 @@ portfolio_one:
 projects_one:
     - image_path: ""
       alt: "placeholder image 1"
-      title: Project item One
-      excerpt: "The blurb will be here."
+      title: Projects
+      excerpt: "Coming Soon"
 ---
 
 ## Presentations
