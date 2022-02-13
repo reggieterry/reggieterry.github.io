@@ -222,17 +222,17 @@ skills:
      title: Skills and Compentencies
 
      toolset:
-       - skill_group:
+      - skill_group:
         - name: SQL
         - name: Tableau
-        - name: R   
-      - skill_group:
-        - name: Microsoft Office Suites (Word, Excel, and Powerpoint)
-        - name: Public Relations/Social Media 
+        - name: R
+        - name: Microsoft Office Suites
       - skill_group:
         - name: Strategic and Target Marketing Skills 
         - name: Hospitality Management
         - name: Budgeting and Cost Control
+        - name: Public Relations/Social Media
+
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
