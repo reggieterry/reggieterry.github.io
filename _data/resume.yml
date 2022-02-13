@@ -18,7 +18,7 @@ career-profile:
 resume-summary: 
     title: Summary
     summary: |
-      Marketing/Sales consultant with 15+ experience in the hospitality industry.
+      Marketing/Sales consultant with 15+ experience in the hospitality industry and is seeking to shift careers into a Marketing Analysis.
 
 education:
     - degree: Doctoral Candidate in Business Administration 
@@ -222,15 +222,17 @@ skills:
      title: Skills and Compentencies
 
      toolset:
+       - skill_group:
+        - name: SQL
+        - name: Tableau
+        - name: R   
+      - skill_group:
+        - name: Microsoft Office Suites (Word, Excel, and Powerpoint)
+        - name: Public Relations/Social Media 
       - skill_group:
         - name: Strategic and Target Marketing Skills 
         - name: Hospitality Management
-        - name: Budgeting and Cost Control   
-      - skill_group:
-        - name: Public Relations/Social Media 
-        - name: Microsoft Office Suites (Word, Excel, and Powerpoint)
-      - skill_group:
-        - name: R
+        - name: Budgeting and Cost Control
 
 footer: >
     Template Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
