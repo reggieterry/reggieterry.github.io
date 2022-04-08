@@ -5,9 +5,9 @@ date:
 header:
   overlay_color: "#35591a"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/carlos-muza-hpjSkU2UYSU-unsplash.jpg
+  overlay_image: /assets/images/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg
 title: "Reginald Terry"
-excerpt: "Marketing/Sales consultant focusing on applying various marketing analytics, concepts, and techniques within the hospitality field."
+excerpt: "Recent Doctorate of Business Administration (DBA) graudate with an expertise in the hospitality industry seeking opportunties to teach Business and Management related concepts."
 feature_row:
   - image_path: 
     alt: 
@@ -18,7 +18,3 @@ feature_row:
     btn_class: 
 
 ---
-
-# Selected Highlights
-
-{% include feature_row %}
