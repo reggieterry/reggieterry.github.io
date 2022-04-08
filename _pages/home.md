@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg
 title: "Reginald Terry"
-excerpt: "Recent Doctorate of Business Administration (DBA) graudate with an expertise in the hospitality industry seeking opportunties to teach Business and Management related concepts."
+excerpt: "Recent Doctorate of Business Administration (DBA) graduate with expertise in the hospitality industry seeking opportunities to teach Business and Management related concepts."
 feature_row:
   - image_path: 
     alt: 
