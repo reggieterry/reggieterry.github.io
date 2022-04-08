@@ -218,7 +218,10 @@ relevant_docs:
     - title: Reference Letter - 2015
       link: docs/Reference_Letter_2015.pdf
       description: Reference Letter from former Mens Achievement Center advisor 
-
+      
+    - title: Dissertation Defense 
+      link: docs/Dissertation Defense.pptx
+      description: PowerPoint Presentation for Dissertation Defense 
 skills: 
      title: Skills and Compentencies
 
