@@ -174,29 +174,24 @@ other_experiences:
 
                
 certifications: 
-       - title: Python Quick Start 
-         time: December 2021
-
-       - title: Data Wrangling in R Programming 
-         time: September 2021
        
-       - title: AI in Business Essential Training
-         time: September 2021
-     
-       - title: Business Intelligence for Consultants
-         time: September 2021
-     
-       - title: Learning R Programming 
-         time: September 2021 
-      
        - title: Certified Hospitality Graduate 
          time: December 2015
      
        - title: Cvent Supplier Network 
          time: June 2015 
 
-        - title: ServSafe Certification - Food Protection Manager
-          time: November 2013 to November 2018 (is eligible to recertify)
+       - title: ServSafe Certification - Food Protection Manager
+         time: November 2013 to November 2018 (is eligible to recertify)
+
+       - title: National Restaurant Association - Purchasing Certification 
+         time: March 2014 
+
+       - title: National Restaurant Association - Bar and Beverage Management
+         time: April 2014
+
+       - title: National Restaurant Association - Customer Service 
+         time: April 2014 
 
 honors:
     - award: American Lodging Investment Summit Scholarship
