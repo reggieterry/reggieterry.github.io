@@ -29,7 +29,3 @@ Make or Buy strategy for the retail industry
 {% include video id="1EqZM2gsleWY2yJ20o0Q0dLKt1Ur2gJcw" provider="google-drive" %}
 
 Developed team coaching podcast and presentation 
-
-## Projects
-
-{% include feature_row id="projects_one" type="left" %}
