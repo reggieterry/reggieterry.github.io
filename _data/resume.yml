@@ -249,14 +249,14 @@ skills:
         - name: Tableau
         - name: R
         - name: Microsoft Office Suites
+        - name: Inventory Management 
+        - name: Teambuilding, Training, Supervision 
       - skill_group:
         - name: Strategic and Target Marketing Skills 
         - name: Hospitality Management
         - name: Budgeting and Cost Control
         - name: Public Relations/Social Media
-        - name: Profit and Growth Strategies 
-        - name: Inventory Management 
-        - name: Teambuilding, Training, Supervision 
+        - name: Profit and Growth Strategies  
 
 
 footer: >
