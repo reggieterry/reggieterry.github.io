@@ -35,7 +35,9 @@
     {% endfor %}
   </ul>
   {% else %}
+    <ul>
     {% for honor in honors %}
+    <li>
     <div class="item">
 
       <div class="meta">
@@ -54,7 +56,9 @@
       {% endif %}
 
     </div><!--//item-->
+  </li>
     {% endfor %}
+  </ul>
   {% endif %}
 
 </section><!--//section-->

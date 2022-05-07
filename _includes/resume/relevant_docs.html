@@ -10,7 +10,9 @@
     {{ docs.title }}
   </h2>
 
+  <ul>
   {% for doc in docs.documents %}
+  <li>
     <div class="item">
 
       <span class="project-title">
@@ -26,7 +28,8 @@
       {% endif %}
 
     </div><!--//item-->
+  </li>
   {% endfor %}
-
+</ul>
 </section><!--//section-->
 {% endif %}

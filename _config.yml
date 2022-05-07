@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:r.terry5350@o365.ncu.edu "
+      url: "mailto:r.terry5350@o365.ncu.edu"
     - label: "Orcid"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-5102-6049"
