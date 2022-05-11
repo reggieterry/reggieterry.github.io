@@ -4,27 +4,22 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
-
+    education: False # set to False if you want an education in the main section instead of in the sidebar
 
 career-profile:
     title: Career Profile
     summary: |
-      Recent Doctorate of Business Administration (DBA) graduate who is a highly motivated, creative and results driven professional with 15+ experience in hospitality and management, with an emphasis on customer service, handling public relations, managing/training employees, maintaining payroll, professional development, planning and organization skills, and spearheading food services for companies and organizations.
-      Seeking to shift careers into teaching Business and Marketing concepts.
-      Vast knowledge of social media tools (LinkedIn, Twitter, Facebook, Instagram) and moderate programming experience, specifically in data analysis and visualization.
-      Proficient in Microsoft Office Suites (Word, PowerPoint, Excel), Google and Adobe applications. 
-      Exemplary writing and communication skills, detail oriented and excellent interpersonal and leadership skills.
+      Recent Doctorate of Business Administration (DBA) graduate who is a highly motivated, creative, and results-driven professional with 15+ years of experience in hospitality and management. 
+      While working in this industry, I managed guest services, handled public relations, trained and managed employees, maintained records for events, taught individuals to improve their professional development, and spearheaded food safety and services for companies and organizations. 
+      I'm seeking to shift careers into an Adjunct Professorship or similar opportunities that will allow me to refine my vast hospitality knowledge within a teaching setting. 
 
 
 resume-summary: 
     title: Summary
     summary: |
-      Recent Doctorate of Business Administration (DBA) graduate who is a highly motivated, creative and results driven professional with 15+ experience in hospitality and management, with an emphasis on customer service, handling public relations, managing/training employees, maintaining payroll, professional development, planning and organization skills, and spearheading food services for companies and organizations.
-      Seeking to shift careers into teaching Business and Marketing concepts.
-      Vast knowledge of social media tools (LinkedIn, Twitter, Facebook, Instagram) and moderate programming experience, specifically in data analysis and visualization.
-      Proficient in Microsoft Office Suites (Word, PowerPoint, Excel), Google and Adobe applications. 
-      Exemplary writing and communication skills, detail oriented and excellent interpersonal and leadership skills.
+      Recent Doctorate of Business Administration (DBA) graduate who is a highly motivated, creative, and results-driven professional with 15+ years of experience in hospitality and management. 
+      While working in this industry, I managed guest services, handled public relations, trained and managed employees, maintained records for events, taught individuals to improve their professional development, and spearheaded food safety and services for companies and organizations. 
+      I'm seeking to shift careers into an Adjunct Professorship or similar opportunities that will allow me to refine my vast hospitality knowledge within a teaching setting. 
 
 education:
     - degree: Doctorate in Business Administration 
@@ -54,12 +49,12 @@ education:
 work_experiences:
     - role: Graduate Researcher
       time: June 2018 to April 2022 
-      company: Northcentral Unviersity  (San Diego, Ca)
+      company: Northcentral University  (San Diego, Ca)
       location: San Diego, Ca 
       details: |
-        - Devised a study that looks into transformational leadership in the hospitality industry and achieved a total response of 36 participants. 
+        - Devised a study that looked into transformational leadership in the hospitality industry and achieved a total response of 36 participants. 
         - Analyzed and created a visual representation of the effects of transformational leadership within the hospitality industry using R programming.
-        - Created program via Python to gather and sort recipes from the web and can be uploaded into the cooklang program. 
+        - Created a program via Python to gather and sort recipes from the web, which can be uploaded into the cooklang program. 
 
     - role: Sales Consultant
       time: March 2016 to August 2016
@@ -68,9 +63,9 @@ work_experiences:
       details: |
         - Managed customer accounts from several business organizations in the Durham/Raleigh/Chapel Hill area. 
         - Analyzed target market and developed business relationships to bring in revenue to the organization.
-        - Helped the organization obtain the highest attendance for a single game(554,788 spectators).
-        - Sold Mini Plans and regular game day tickets to walk-up customers and other interests.
-        - Conducted cold calls for renewals and new customers that acheived a 40% renewal and first-time purchase.
+        - Helped the organization obtain the highest attendance for a single game (554,788 spectators).
+        - Sold Mini-Plans and regular game day tickets to walk-up customers and other interests.
+        - Conducted cold calls for renewals and new customers that achieved a 40% renewal and first-time purchase.
         - Assisted in customer service of the ballpark by monitoring and maintaining customer satisfaction. 
 
     - role: Catering Manager
@@ -88,11 +83,11 @@ work_experiences:
       company: Durham Convention Center  (Durham, NC)
       location: Durham, NC 
       details: |
-        - Assisted marketing/sales department with advertising and promotions.
-        - Built Social Media presentation using various social media platforms(Facebook,Instagram) to gauge customer satisfaction (70%). 
-        - Collected and analyze data to help identify customer base (10,000 entries) that covered the Durham/Raleigh area.  
+        - Assisted the marketing/sales department with advertising and promotions.
+        - Built Social Media presentations using various social media platforms(Facebook, Instagram) to gauge customer feedback satisfaction (70%). 
+        - Collected and analyze data to help identify the customer base (10,000 entries) that covered the Durham/Raleigh area.  
         - Assisted with daily procedures in the convention center.
-        - Completed proposals for 25 prospects and created 10 contracts for clients.
+        - Completed proposals for 25 prospects and created ten contracts for clients.
         - Answered cold calls(20 per day) and responded to several customer emails.
 
     - role: Area Host/Consultant  
@@ -102,7 +97,8 @@ work_experiences:
       details: |
         - Assisted with ensuring group placement within the ballpark during baseball season. 
         - Monitored group areas for proper safety precautions and activities. 
-        - Worked with teams and individually to acheive guest satisfaction.
+        - Individually engaged with baseball teams to achieve maximum guest service satisfaction.
+  - Worked at the front desk to achieve maximum guest service satisfaction.
         - Assisted organizations with guidance to their respected areas, collection of tickets, and general cleaning duties.
 
     - role: Event Planner/Parliamentarian 
@@ -132,16 +128,16 @@ other_experiences:
       details: |
         - Assisted the President in facilitating business meetings. 
         - Coordinated events with the Social Committee Chairperson. 
-        - Maintained records of attendence and meeting notes.
-        - Ensured use of proper rules of order for all meetings. 
+        - Maintained records of attendance and meeting notes.
+        - Ensured the use of proper rules of order for all meetings. 
 
     - role: Student Presenter 
       time: May 2010  
       company: North Carolina Community College System  (Raleigh, NC)
       details: |
-        - Presented to 80 state government officials on the importance of community colleges. 
-        - Spoke on behalf of the North Carolina Community Colleges. 
-        - Talked about my history with community colleges and how they halped me grow. 
+         - Presented to 80 state government officials on the importance of community colleges. 
+         - Enthusiastically spoke in front of the North Carolina Senate on behalf of the North Carolina Community Colleges 
+         - Talked about my history with community colleges and how they helped me grow. 
     
     - role: Food and Drink Specialist
       time: February 2008 to July 2009
@@ -149,7 +145,7 @@ other_experiences:
       location: Durham, NC 
       details: |
         - Processed food and beverage orders for guests.
-        - Ensured orders were completed and guests enjoyed their experience.
+        - Ensured maximum guest service satisfaction.
         - Handled cash and credit card transactions for guests.
         - Worked within a team atmosphere to ensure guest satisfaction. 
 
@@ -159,11 +155,11 @@ other_experiences:
       location: Durham, NC 
       details: |
         - Processed food and beverage orders for guests.
-        - Ensured orders were completed and guests enjoyed their experience.
+        - Ensured maximum guest service satisfaction.
         - Handled cash and credit card transactions for guests.
         - Worked within a team atmosphere to ensure guest satisfaction.
         - Maintained records of daily operations and ensured proper cash handling procedures were met. 
-        - Effectively trained and developed incoming employees and monitored their progression. 
+        - Gain teaching experience by effectively training,  developing, and monitoring incoming employees' progression. 
 
     - role: Food and Drink Specialist
       time: March 1998 to January 2001
@@ -171,27 +167,22 @@ other_experiences:
       location: Durham, NC 
       details: |
         - Processed food and beverage orders for guests.
-        - Ensured orders were completed and guests enjoyed their experience.
+        - Ensured maximum guest service satisfaction.
         - Handled cash and credit card transactions for guests.
-        - Worked within a team atmosphere to ensure guest satisfaction. 
 
     - role: Manager 
       time: January 1997 to March 1998 
       company: Yum! Brands Inc. (Durham, NC)
       location: Roxboro, NC 
       details: |
-        - Administered daily operations and ensure compliance with all company fiscal guidelines.
-        - Maintain work environemt according to local and federal laws.
-        - Designed all profitable strategies for all guests and maintain all cost controls. 
-        - Monitored and ensured efficiency of restaurant operations and provided optimal customer experience. 
-        - Implemented all action plans to achieve all business objectives and maintained customer experience. 
+        - Administered daily operations and ensured compliance with all company fiscal guidelines and local and federal laws
+        - Designed all profitable marketing strategies for all guests and maintained all cost controls. 
+        - Monitored and ensured efficiency of restaurant operations and provided optimal guest service satisfaction. 
         - Developed various strategies to achieve financial objectives. 
-        - Developed various human resource strategies for all employees to assist with optimal performance.
-        - Assisted with training and development of new and current employees. 
-        - Maintained all restaurant requirements and abided by current labor laws. 
-        - Assisted with compliance of all OSHA requirements and prepared reports. 
-        - Maintained all employee files and ensured accuracy and security. 
-        - Prepared weekly and monthly records of operational statements and expenses.
+        - Partook in program development for human resource strategies to guarantee all employees achieved optimal performance according to the company's employee training curriculum.
+        - Gained industrial experience by maintaining all restaurant requirements and abided by current labor laws.
+        - Assisted with compliance with all OSHA requirements and prepared reports. 
+        - Prepared weekly and monthly records of operational statements and expenses while ensuring all employee files were accurate and secure.
                
 certifications: 
        
@@ -215,7 +206,7 @@ certifications:
 
 honors:
     - award: American Lodging Investment Summit Scholarship
-      intro: received $1500 scholarship from the American Hotel and Lodging Educational Foundation 
+      intro: received a $1500 scholarship from the American Hotel and Lodging Educational Foundation 
       time: September 2014 
     
     - award: National Society of Minorities in Hospitality
@@ -227,11 +218,11 @@ relevant_docs:
   documents:
     - title: Shake Shack Powerpoint
       link: docs/Shake_Shack_powerpoint.pdf
-      description: Service Quality Audit for Shake Shack in Philadelpha Pa. 
+      description: Service Quality Audit for Shake Shack in Philadelphia, Pa. 
 
     - title: Fox STHM Consulting Tem Presentation
       link: docs/Fox_STHM_Consulting_Team_Presentation.pdf
-      description: Design and consult project for Temple University's Fox School of Business on 20th Anniversary of the School of Sport Tourism and Hospitality Management 
+      description: Design and consult project for Temple University's Fox School of Business on the 20th Anniversary of the School of Sport Tourism and Hospitality Management 
 
     - title: Reference Letter - 2015
       link: docs/Reference_Letter_2015.pdf
