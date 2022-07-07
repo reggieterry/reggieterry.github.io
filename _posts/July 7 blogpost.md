@@ -1,6 +1,6 @@
-#July 7 
+# July 7 
 
-#What is up with these Job Descriptions and the Job Market? 
+# What is up with these Job Descriptions and the Job Market? 
 
 Have you ever wondered about what analysts mean when they say it is an "employee's market"?
 Or that the job market is working in the employee's favor? 
