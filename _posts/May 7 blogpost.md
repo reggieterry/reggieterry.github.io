@@ -1,6 +1,6 @@
-#May 7 2022
+# May 7 2022
 
-#The Perils of Career Change 
+# The Perils of Career Change 
 
 Since 2020, there have been millions of jobs lost due to the pandemic. 
 Companies have had to shut their doors and countless of employees have lost jobs and careers. 
