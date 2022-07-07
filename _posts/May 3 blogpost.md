@@ -1,6 +1,6 @@
-#May 3 2022
+# May 3 2022
 
-#Struggles of Job Hunting in the Pandemic
+# Struggles of Job Hunting in the Pandemic
 
 Job hunting is really difficult in this day and time. 
 With millions of people out of work and companies looking for employees, why are people having a rough time getting back to work? 
