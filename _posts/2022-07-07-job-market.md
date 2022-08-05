@@ -24,8 +24,3 @@ So why are all the companies now requiring experience with all the entry level p
 My guess is that they don't want to pay the amount it cost to train someone brand new to the industry. 
 They are looking to "pocket" that money for their profit. 
 Another guess is that hiring someone with a little bit of experience means that its less training for the company to do when it comes to specific programs that are utilized. 
-
-
-
-
-
