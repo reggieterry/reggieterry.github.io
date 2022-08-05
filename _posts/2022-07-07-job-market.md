@@ -24,3 +24,11 @@ So why are all the companies now requiring experience with all the entry level p
 My guess is that they don't want to pay the amount it cost to train someone brand new to the industry. 
 They are looking to "pocket" that money for their profit. 
 Another guess is that hiring someone with a little bit of experience means that its less training for the company to do when it comes to specific programs that are utilized. 
+It's interesting that many companies have this "vision" of the position that they are looking to fill. But when they find out that the said position actually requires LESS than the vision. They have this uncanny way of saying "Well what I say is what the position entails." 
+
+Instead of just making a copy and paste description. 
+Why don't these CEOs go down in the trenches and perform the exact duties that the position requires and see the real deal about these jobs. 
+Then they would understand that "saying" and "doing" are two totally different concepts. 
+This is just simple education. 
+And it would give them a chance to understand the daily functions of the job. 
+That is just my two cents. 
