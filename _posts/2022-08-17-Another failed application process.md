@@ -33,8 +33,27 @@ It is really funny that these companies can tell a person's worth and knowledge 
 The only thing those words tell me is that the person can read and figure out that those are the words that I need to put in my resume to get a job. 
 It also tells me that the system is broken and needs to be fixed pronto. 
 
-Companies use the ATS or Applicant Tracking System to filter out the applications that come into their system. The HR manager puts certain keywords into the system and the computer looks for those words in the resume and it scores them on the number of words the person has. 
+Companies use the ATS or Applicant Tracking System to filter out the applications that come into their system. The system was created in the late 90s and exploded onto the scene to make it easier for companies to sift through the numerous applications and resumes flooding their offices. 
+Now they have evolved into the unified system that companies use to recruit, hire, and train new employees.
+The HR manager puts certain keywords into the system and the computer looks for those words in the resume and it scores them on the number of words the person has. 
 If the application or resume has a high number of those keywords, then they will stay in the system. 
 If they don't then the system kicks it out and the application/resume is rejected. 
-asdf
+
+The one thing about these systems is that they don't actually know what a person can do. 
+For example, if a company puts certain keywords into the system for a job description, what are they really putting in there? 
+How do they know that those are the exact things that the job entails? 
+And furthermore, what does the job entail? 
+The day to day workings of the position. 
+Also, what does the position require when it comes to any certifiacations or licenses? 
+This interview that I went on was interesting. 
+The hiring manager sent me an email requesting that I send them a copy of my undergrad transcript so they can see which classes I have taken. 
+That threw me for a loop.
+Luckily, I had a copy of both my undergrad and masters transcripts on me. 
+One would think that putting your degree on the resume would suffice. 
+I guess I was wrong. 
+
+Another thing that kinda threw me for a loop was the question and answer portion of the interview. 
+They were only one question per person. 
+During the interview process I was expecting at least three or more questions per person. 
+I only got one question per person, which was kinda weird. 
 
