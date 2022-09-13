@@ -11,5 +11,6 @@ During my dissertation experience, I developed a moderate amount of programming 
 Before obtaining my DBA, I worked within the hospitality industry, where my duties included handling public relations, managing/training employees, maintaining payroll, and spearheading food services for large companies.
 Furthermore, I developed excellent interpersonal and leadership skills and exemplary writing and communication skills throughout his career. 
 Similarly, I developed a strong knowledge of social media tools as I was tasked to promote company products and events. 
-After spending several years in the hospitality industry, I realized that my talents are best suited for education.
-Therefore, I am currently seeking to shift my focus from working in the hospitality industry to teaching.
+After spending several years in the hospitality industry, I realized that my talents can be utilized in other sectors of the business industry.
+Understanding that technology and programming are the hot topics in the business industry, I am looking to change careers and move into the Business Analyst role or similar profession. 
+
