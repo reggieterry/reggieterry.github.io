@@ -1,0 +1,226 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlecolor][h=613790]
+\definecolor[sectioncolor][h=814ABE]
+\definecolor[subsectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd\bf, color=titlecolor, align=middle]
+\setuphead[section]      [style=\tfd\bf, color=sectioncolor, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\defineitemgroup[enumerate]
+\setupenumerate[each][fit][itemalign=left,distance=.5em,style={\feature[+][default:tnum]}]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\startsectionlevel[title={Reginald Terry},reference={reginald-terry}]
+
+reginaldterry1969@gmail.com • 919-519-0360 • 11291 Chatterly Loop Apt
+104, Manassas VA 20109
+
+\startsectionlevel[title={Summary},reference={summary}]
+
+Recent Doctor of Business Administration (DBA) graduate who is highly
+motivated, creative, and results-driven with 21+ years of professional
+experience in hospitality and management. While working in this
+industry, I managed guest services, handled public relations, trained
+and supervised employees, maintained records for events, taught
+individuals to improve their professional development, and spearheaded
+food safety and services for companies and organizations. I'm seeking to
+shift careers to become a Marketing/Sales Manager or a similar position
+that will allow me to refine my vast business knowledge within an
+industry setting.
+
+\stopsectionlevel
+
+\startsectionlevel[title={Skills &
+Proficiency},reference={skills-proficiency}]
+
+Marketing Strategy • Social Media Marketing • Customer Relations •
+Customer Service • Business Intellegence • Business Analysis • Customer
+Data • Research • Organizational Leadership • Team Leadership •
+Leadership Development • Critical Thinking • Problem Solving • Public
+speaking • Event Planning • Community Outreach • Data Analysis • Data
+Modeling • R • Python • Tableau • Microsoft Office Suites • Machine
+Learning
+
+\stopsectionlevel
+
+\startsectionlevel[title={Professional
+Experience},reference={professional-experience}]
+
+{\bf Graduate Researcher}\crlf
+{\bf Northcentral University}\crlf
+{\bf June 2018-April 2022}
+
+\startitemize[packed]
+\item
+  Acquired a 36\letterpercent{} response rate for a survey on leadership
+  in the hospitality industry by using effective marketing strategies
+\item
+  Achieved a 2x speed up in analyzing survey response data using R
+  programming.
+\item
+  Presented thesis proposal that was well received by an audience of at
+  least 50 students, faculty, and staff
+\stopitemize
+
+{\bf Sales Consultant}\crlf
+{\bf Durham Bulls Baseball Club}\crlf
+{\bf March 2016-August 2016}
+
+\startitemize[packed]
+\item
+  Obtained a 40\letterpercent{} renewal rate for seasonal, mini-plans,
+  and first-time ticket purchases via marketing and sales with new and
+  returning customers.
+\item
+  Facilitated ticket sales to achieve the highest attendance rate of the
+  season (554,788 spectators)
+\item
+  Orchestrated one of the most significant sales of the season (\$2500)
+  with a well-known university
+\item
+  Spearheaded the experience of at least 150 different organizations in
+  the purchase and enjoyment of the ballpark facilities
+\stopitemize
+
+{\bf Catering Manager}\crlf
+{\bf North Carolina Central University Dining Services}\crlf
+{\bf October 2015-March 2016}
+
+\startitemize[packed]
+\item
+  Maintained 100\letterpercent{} satisfaction while organizing and
+  facilitating several campus events with over 150 participants.
+\item
+  Brought in and maintained an extensive network of at least 15
+  different connections
+\item
+  Ensured client satisfaction by constructing detailed order forms to
+  ensure no missing items
+\stopitemize
+
+{\bf Area Host/Consultant}\crlf
+{\bf Durham Bulls Athletic Park}\crlf
+{\bf May 2013-August 2015}
+
+\startitemize[packed]
+\item
+  Guaranteed optimal group placement in the ballpark that allowed the
+  company to comply with safety precautions standards
+\item
+  Facilitated maximum guest service satisfaction by assisting
+  organizations with guidance to their respective areas, collection of
+  tickets, and general cleaning duties
+\stopitemize
+
+{\bf Marketing Consultant (Part-Time)}\crlf
+{\bf Durham Convention Center}\crlf
+{\bf May 2013-August 2013}
+
+\startitemize[packed]
+\item
+  Constructed social media presentations on Facebook and Instagram to
+  measure customer feedback satisfaction (70\letterpercent{})
+\item
+  Performed market analytics on 10,000 customers to highlight trends and
+  opportunities
+\stopitemize
+
+{\bf Event Planner/Parliamentarian}\crlf
+{\bf North Carolina Comprehensive Community College Student Government
+Association}\crlf
+{\bf May 2011-May 2012}
+
+\startitemize[packed]
+\item
+  Coordinated business conferences for over 300 delegates and guests
+  during the Fall and Spring semesters
+\item
+  Galvanized motivation for all the delegates by organizing
+  entertainment events, presenter room assignments, and gift bags
+\item
+  Maintained security details to provide memorable guest experience.
+\stopitemize
+
+\stopsectionlevel
+
+\startsectionlevel[title={Education},reference={education}]
+
+{\bf Doctor of Business Administration (DBA)}; Northcentral University
+(San Diego, CA)
+
+{\bf Masters in Tourism and Hospitality Management}; Temple University
+(Philadelphia, PA)
+
+{\bf Bachelor of Science, Hospitality and Tourism Administration}; North
+Carolina Central University (Durham, NC)
+
+{\bf Associate in Applied Science, Business Administration}; Durham
+Technical Community College (Durham, NC)
+
+\stopsectionlevel
+
+\stopsectionlevel
+
+\stoptext

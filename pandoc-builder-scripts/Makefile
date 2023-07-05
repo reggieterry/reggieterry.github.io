@@ -1,7 +1,7 @@
-OUT_DIR=output
-IN_DIR=markdown
+OUT_DIR=../external_documents/output
+IN_DIR=../external_documents/input
 STYLES_DIR=styles
-STYLE=chmduquesne
+STYLE=purple_template
 
 all: html pdf docx rtf
 
