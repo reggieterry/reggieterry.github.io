@@ -4,13 +4,7 @@ layout: single
 title: About
 ---
 
-I am a recent graduate with a Doctor of Business Administration (DBA) degree and have 15+ years of extensive experience in the Hospitality Industry. 
-My dissertation focused on analyzing contrastive leadership styles within the hospitality industry, where I examined which leadership style best suits this diverse industry.
-During my dissertation experience, I developed a moderate amount of programming experience focused on data analytics and visualization.
-
-Before obtaining my DBA, I worked within the hospitality industry, where my duties included handling public relations, managing/training employees, maintaining payroll, and spearheading food services for large companies.
-Furthermore, I developed excellent interpersonal and leadership skills and exemplary writing and communication skills throughout his career. 
-Similarly, I developed a strong knowledge of social media tools as I was tasked to promote company products and events. 
-After spending several years in the hospitality industry, I realized that my talents can be utilized in other sectors of the business industry.
-Understanding that technology and programming are the hot topics in the business industry, I am looking to change careers and move into the Business Analyst role or similar profession. 
+Recent Doctor of Business Administration (DBA) graduate who is highly motivated, creative, and results-driven with 21+ years of professional experience in hospitality and management. 
+While working in this industry, I managed guest services, handled public relations, trained and supervised employees, maintained records for events, taught individuals to improve their professional development, and spearheaded food safety and services for companies and organizations. 
+I’m seeking to shift careers to become a Marketing/Sales Manager or a similar position that will allow me to refine my vast business knowledge within an industry setting.
 
