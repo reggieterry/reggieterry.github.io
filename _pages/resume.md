@@ -1,14 +1,11 @@
 ---
 permalink: /resume/
 layout: resume
-title: Resume
+title: resume
 ---
 
-{% include resume/contact.html %}
-{% include resume/resume_summary.html %}
-{% include resume/skills.html %}
-{% include resume/work_experiences.html %}
-{% include resume/other_experiences.html %}
-{% include resume/education.html %}
-{% include resume/certifications.html %}
-{% include resume/honors.html %}
+<a href="{{site.url}}/external_documents/output/reginald_terry_resume.pdf" download="reginad_terry_resume.pdf"> Click here for a printable version!</a>
+
+---
+
+{% include_absolute  'external_documents/input/reginald_terry_resume.md' %}

@@ -12,129 +12,13 @@
     padding-right: $right-sidebar-width;
   }
 
-  .contact-container{
-    display: none;
-  }
-
-  .contact-list{
-    list-style-type: none;
-    padding: 20 px;
-    margin: 0;
-    overflow: hidden;
-
-    li{
-        float:left;
-        padding-right: 10px;
-        .author_avatar{
-            vertical-align: middle !important;
-        }
-    }
-  }
-
-  .section-title {
-        text-transform: uppercase;
-        font-size: 18px;
-        font-weight: 500;
-        color: darken($primary-color, 15%);
-        position: relative;
-    }
-
-    .experiences-section, .educations-section {
-        .item {
-            margin-bottom: 2px;
-        }
-
-        ul {
-            list-style-type: none;
-        }
-
-        p{
-            margin: 0 !important;
-        }
-    }
-
-    .upper-row {
-        position: relative;
-        overflow: hidden;
-        margin-bottom: 0px;
-    }
-
-    .award-title {
-        color: $text-color;
-        font-size: 16px;
-        margin-top: 0;
-        margin-bottom: 0;
-        font-weight: 500;
-        overflow-wrap: break-word;
-    }
-
-    .job-title, .degree {
-        color: $text-color;
-        font-size: 16px;
-        margin-top: 0;
-        margin-bottom: 0;
-        font-weight: 500;
-    }
-
-    .time {
-        position: absolute;
-        right: 0;
-        top: 0;
-        color: $muted-text-color;
+  h1 {
+    color:rgb(97, 55, 144);
+}
+    h2 {
+        color:rgb(129,74,190);
     }
     
-    .company, .university {
-        margin-bottom: 10px;
-        color: $muted-text-color;
-    }
-
-    
-    .project-title {
-        font-size: 16px;
-        font-weight: 400;
-        margin-top: 0;
-        margin-bottom: 5px;
-        color: darken($primary-color, 15%);
-    }
-    
-    .projects-section {
-        .intro {
-            margin-bottom: 30px;
-        }
-        .item {
-            margin-bottom: 15px;
-        }
-    }
-
-    .publication-title {
-        font-size: 16px;
-        font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
-    }
-    .publication-authors {
-        font-style: italic;
-        color: $muted-text-color;
-        margin-bottom: 1px;
-    }
-
-    .publications-section {
-        .intro {
-            margin-bottom: 0px;
-        }
-        .item {
-            margin-bottom: 0px;
-        }
-    }
-
-    .skillset {
-        padding-left: 25px;
-        ul {
-            display: inline-block;
-            margin: 0px;
-        }
-    }
-
 }
 
 .print_only {
