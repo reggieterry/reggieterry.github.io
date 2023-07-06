@@ -8,4 +8,4 @@ title: resume
 
 ---
 
-{% include_absolute  'external_documents/input/reginald_terry_resume.md' %}
+{% include  input_documents/reginald_terry_resume.md %}

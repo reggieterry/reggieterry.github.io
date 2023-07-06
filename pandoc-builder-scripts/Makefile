@@ -1,5 +1,5 @@
-OUT_DIR=../_includes/external_documents/output
-IN_DIR=../_includes/external_documents/input
+OUT_DIR=../external_documents/output
+IN_DIR=../_includes/input_documents/input
 STYLES_DIR=styles
 STYLE=purple_template
 
