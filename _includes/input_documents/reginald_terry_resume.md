@@ -1,14 +1,16 @@
 Reginald Terry
 ============
 
-reginaldterry1969@gmail.com • 919-519-0360 • 11291 Chatterly Loop Apt 104, Manassas VA 20109  
+<reginaldterry1969@gmail.com> • 919-519-0360 • 11291 Chatterly Loop Apt 104, Manassas VA 20109  
 
 Summary
 -------
+
 Recent Doctor of Business Administration (DBA) graduate who is highly motivated, creative, and results-driven with 21+ years of professional experience in hospitality and management. While working in this industry, I managed guest services, handled public relations, trained and supervised employees, maintained records for events, taught individuals to improve their professional development, and spearheaded food safety and services for companies and organizations. I’m seeking to shift careers to become a Marketing/Sales Manager or a similar position that will allow me to refine my vast business knowledge within an industry setting.
 
-Skills & Proficiency 
+Skills & Proficiency
 --------------------
+
 Marketing Strategy • Social Media Marketing • Customer Relations • Customer Service • Business Intellegence • Business Analysis • Customer Data • Research • Organizational Leadership • Team Leadership • Leadership Development • Critical Thinking • Problem Solving • Public speaking • Event Planning • Community Outreach • Data Analysis • Data Modeling • R • Python • Tableau • Microsoft Office Suites • Machine Learning  
 
 Professional Experience
@@ -24,8 +26,8 @@ Professional Experience
   
 **Sales Consultant**  
 **Durham Bulls Baseball Club**  
-**March 2016-August 2016**    
- 
+**March 2016-August 2016**
+
 - Obtained a 40% renewal rate for seasonal, mini-plans, and first-time ticket purchases via marketing and sales with new and returning customers.
 - Facilitated ticket sales to achieve the highest attendance rate of the season (554,788 spectators)
 - Orchestrated one of the most significant sales of the season ($2500) with a well-known university
@@ -36,7 +38,7 @@ Professional Experience
 **October 2015-March 2016**  
 
 - Maintained 100% satisfaction while organizing and facilitating several campus events with over 150 participants.
-- Brought in and maintained an extensive network of at least 15 different connections 
+- Brought in and maintained an extensive network of at least 15 different connections
 - Ensured client satisfaction by constructing detailed order forms to ensure no missing items
 
 **Area Host/Consultant**  
@@ -63,6 +65,7 @@ Professional Experience
 
 Education
 ---
+
 **Doctor of Business Administration (DBA)**; Northcentral University (San Diego, CA)  
 
 **Masters in Tourism and Hospitality Management**; Temple University (Philadelphia, PA)  
