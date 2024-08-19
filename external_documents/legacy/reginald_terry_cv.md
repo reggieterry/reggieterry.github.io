@@ -132,7 +132,7 @@ Professional Experience
 **Yum! Brands Inc. (Durham, NC)**  
 **January 1997 to March 1998**  
 
-- Administered daily operations and ensured compliance with all company fiscal guidelines and local and federal laws
+- Administered daily operations and ensured compliance with all company fiscal guidelines and local and federal laws.
 - Designed all profitable marketing strategies for all guests and maintained all cost controls.
 - Monitored and ensured efficiency of restaurant operations and provided optimal guest service satisfaction.
 - Developed various strategies to achieve financial objectives.
@@ -158,8 +158,11 @@ Certifications
 
 Honors
 ------
-**American Lodging Investment Summit Scholarship**, September 2014 
-- received a $1500 scholarship from the American Hotel and Lodging Educational Foundation 
+
+**American Lodging Investment Summit Scholarship**, September 2014
+
+- received a $1500 scholarship from the American Hotel and Lodging Educational Foundation
 
 **National Society of Minorities in Hospitality**, August 2012
+
 - Member of the NSMH chapter at North Carolina Central University
