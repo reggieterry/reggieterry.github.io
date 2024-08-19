@@ -1,18 +1,21 @@
 Reginald Terry
 ============
 
-reginaldterry1969@gmail.com • 919-519-0360 • 11291 Chatterly Loop Apt 104, Manassas VA 20109  
+<reginaldterry1969@gmail.com> • 919-519-0360 • 11291 Chatterly Loop Apt 104, Manassas VA 20109  
 
 Summary
 -------
+
 Recent Doctor of Business Administration (DBA) graduate who is highly motivated, creative, and results-driven with 21+ years of professional experience in hospitality and management. While working in this industry, I managed guest services, handled public relations, trained and supervised employees, maintained records for events, taught individuals to improve their professional development, and spearheaded food safety and services for companies and organizations. I’m seeking to shift careers to become a Marketing/Sales Manager or a similar position that will allow me to refine my vast business knowledge within an industry setting.
 
-Skills & Proficiency 
+Skills & Proficiency
 --------------------
+
 Marketing Strategy • Social Media Marketing • Customer Relations • Customer Service • Business Intellegence • Business Analysis • Customer Data • Research • Organizational Leadership • Team Leadership • Leadership Development • Critical Thinking • Problem Solving • Public speaking • Event Planning • Community Outreach • Data Analysis • Data Modeling • R • Python • Tableau • Microsoft Office Suites • Machine Learning  
 
 Education
 ---
+
 **Doctor of Business Administration (DBA)**; Northcentral University (San Diego, CA)  
 
 **Masters in Tourism and Hospitality Management**; Temple University (Philadelphia, PA)  
@@ -34,8 +37,8 @@ Professional Experience
   
 **Sales Consultant**  
 **Durham Bulls Baseball Club**  
-**March 2016-August 2016**    
- 
+**March 2016-August 2016**
+
 - Obtained a 40% renewal rate for seasonal, mini-plans, and first-time ticket purchases via marketing and sales with new and returning customers.
 - Facilitated ticket sales to achieve the highest attendance rate of the season (554,788 spectators)
 - Orchestrated one of the most significant sales of the season ($2500) with a well-known university
@@ -46,7 +49,7 @@ Professional Experience
 **October 2015-March 2016**  
 
 - Maintained 100% satisfaction while organizing and facilitating several campus events with over 150 participants.
-- Brought in and maintained an extensive network of at least 15 different connections 
+- Brought in and maintained an extensive network of at least 15 different connections
 - Ensured client satisfaction by constructing detailed order forms to ensure no missing items
 
 **Area Host/Consultant**  
@@ -84,18 +87,18 @@ Professional Experience
 **Durham Technical Community College Student Senate  (Durham, NC)**  
 **May 2011 to May 2012**  
 
-- Assisted the President in facilitating business meetings. 
-- Coordinated events with the Social Committee Chairperson. 
+- Assisted the President in facilitating business meetings.
+- Coordinated events with the Social Committee Chairperson.
 - Maintained records of attendance and meeting notes.
-- Ensured the use of proper rules of order for all meetings. 
+- Ensured the use of proper rules of order for all meetings.
 
 **Student Presenter**  
 **North Carolina Community College System  (Raleigh, NC)**  
 **May 2010**  
 
-- Presented to 80 state government officials on the importance of community colleges. 
-- Enthusiastically spoke in front of the North Carolina Senate on behalf of the North Carolina Community Colleges 
-- Talked about my history with community colleges and how they helped me grow. 
+- Presented to 80 state government officials on the importance of community colleges.
+- Enthusiastically spoke in front of the North Carolina Senate on behalf of the North Carolina Community Colleges
+- Talked about my history with community colleges and how they helped me grow.
 
 **Food and Drink Specialist**  
 **LM Restaurants Inc.  (Durham, NC)**  
@@ -104,7 +107,7 @@ Professional Experience
 - Processed food and beverage orders for guests.
 - Ensured maximum guest service satisfaction.
 - Handled cash and credit card transactions for guests.
-- Worked within a team atmosphere to ensure guest satisfaction. 
+- Worked within a team atmosphere to ensure guest satisfaction.
 
 **Food Specialist/Leader**  
 **Ruby Tuesdays Inc.  (Durham, NC)**  
@@ -114,8 +117,8 @@ Professional Experience
 - Ensured maximum guest service satisfaction.
 - Handled cash and credit card transactions for guests.
 - Worked within a team atmosphere to ensure guest satisfaction.
-- Maintained records of daily operations and ensured proper cash handling procedures were met. 
-- Gain teaching experience by effectively training, developing, and monitoring incoming employees' progression. 
+- Maintained records of daily operations and ensured proper cash handling procedures were met.
+- Gain teaching experience by effectively training, developing, and monitoring incoming employees' progression.
 
 **Food and Drink Specialist**  
 **Day Star Restaurant Group  (Durham, NC)**  
@@ -130,27 +133,28 @@ Professional Experience
 **January 1997 to March 1998**  
 
 - Administered daily operations and ensured compliance with all company fiscal guidelines and local and federal laws
-- Designed all profitable marketing strategies for all guests and maintained all cost controls. 
-- Monitored and ensured efficiency of restaurant operations and provided optimal guest service satisfaction. 
-- Developed various strategies to achieve financial objectives. 
+- Designed all profitable marketing strategies for all guests and maintained all cost controls.
+- Monitored and ensured efficiency of restaurant operations and provided optimal guest service satisfaction.
+- Developed various strategies to achieve financial objectives.
 - Partook in program development for human resource strategies to guarantee all employees achieved the learning outcomes described in the company's lesson plans for employee training.
 - Gained industrial experience by maintaining all restaurant requirements and abided by current labor laws.
-- Assisted with compliance with all OSHA requirements and prepared reports. 
+- Assisted with compliance with all OSHA requirements and prepared reports.
 - Prepared weekly and monthly records of operational statements and expenses while ensuring all employee files were accurate and secure.
 
 Certifications
 --------------
+
 **Certified Hospitality Graduate** , December 2015
 
-**Cvent Supplier Network**, June 2015 
+**Cvent Supplier Network**, June 2015
 
-**ServSafe Certification - Food Protection Manager**, November 2013 
+**ServSafe Certification - Food Protection Manager**, November 2013
 
-**National Restaurant Association - Purchasing Certification**, March 2014 
+**National Restaurant Association - Purchasing Certification**, March 2014
 
 **National Restaurant Association - Bar and Beverage Management**, April 2014
 
-**National Restaurant Association - Customer Service**, April 2014 
+**National Restaurant Association - Customer Service**, April 2014
 
 Honors
 ------
