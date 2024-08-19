@@ -79,7 +79,7 @@ Professional Experience
 **February 2010 to July 2012**  
   
 - Support operations of college computer lab for students.
-- Assisted with software and hardware issues. 
+- Assisted with software and hardware issues.
 - Monitored usage of computers to ensure proper use.
 - Maintained log of equipment failures and reported to IT Department.  
 
