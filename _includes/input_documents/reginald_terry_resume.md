@@ -16,6 +16,16 @@ Marketing Strategy • Social Media Marketing • Customer Relations • Custome
 Professional Experience
 ----------
 
+**Content Writer/Subject Matter Expert - Hospitality**  
+**Upwork**  
+**March 2024 - Present**
+
+- Developed well-researched content pertaining to hospitality and tourism courses.
+- Created lesson plans, assessments, and other instructional materials to help students learn and retain information about the hospitality industry.
+- Provided valuable knowledge and insights on real-world applications within the hospitality industry.
+- Review amd edit course materials to ensure accuracy and effectiveness.
+- Keep up with the latest trends, regulations, and advancements in the industry.
+
 **Graduate Researcher**  
 **Northcentral University**  
 **June 2018-April 2022**  
