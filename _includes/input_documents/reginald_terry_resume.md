@@ -16,9 +16,18 @@ Marketing Strategy • Social Media Marketing • Customer Relations • Custome
 Professional Experience
 ----------
 
+**Adjunct Faculty**  
+**American Intercontinental University**  
+**June 2025 - Present**  
+
+- Teach business courses to undergraduate students. 
+- Create and deliver interactive and instructional lectures. 
+- Assigning and grading student coursework. 
+- Managing administrative tasks such as tracking attendence, holding office hours, and tracking final exams.  
+
 **Content Writer/Subject Matter Expert - Hospitality**  
 **Upwork**  
-**March 2024 - Present**
+**March 2024 - June 2025**
 
 - Developed well-researched content pertaining to hospitality and tourism courses.
 - Created lesson plans, assessments, and other instructional materials to help students learn and retain information about the hospitality industry.
