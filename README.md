@@ -83,8 +83,8 @@ This project is personal work. Please review the LICENSE file for specific terms
 ## Contact
 
 - 🌐 Website: [reggieterry.github.io](https://reggieterry.github.io)
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: [www.linkedin.com/in/dr-reginald-t-11638515]
+- 📧 Email: [reginaldterry1969@gmail.com]
 
 ---
 
