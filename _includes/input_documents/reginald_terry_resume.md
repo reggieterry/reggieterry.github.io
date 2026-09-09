@@ -1,7 +1,7 @@
 Reginald Terry
 ============
 
-<reginaldterry1969@gmail.com> • 919-519-0360 • 11291 Chatterly Loop Apt 104, Manassas VA 20109  
+<reginaldterry1969@gmail.com> • 919-519-0360 • 130 Bartram Ave. Lansdowne Pa. 19050  
 
 Summary
 -------
