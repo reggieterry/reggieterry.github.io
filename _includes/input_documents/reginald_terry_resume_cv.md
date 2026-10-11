@@ -1,7 +1,7 @@
 Reginald Terry
 ============
 
-<reginaldterry1969@gmail.com> • 919-519-0360 • 130 Bartram Ave. Lansdowne Pa. 19050  
+reginaldterry1969@gmail.com • 919-519-0360 • Lansdowne, PA (Open to Remote)
 
 Summary
 -------

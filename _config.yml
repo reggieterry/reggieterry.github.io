@@ -111,30 +111,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:r.terry5350@o365.ncu.edu"
-    - label: "Orcid"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0001-5102-6049"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/reginald-terry-11638515/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ReginaldTerry19"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/reggieterry"
-    - label: "Portfolio"
-      icon: "fas fa-portrait"
-      url: "https://reggieterry.github.io/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -142,27 +121,6 @@ footer:
     - label: "linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/reginald-terry-11638515/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ReginaldTerry19"
-    - label: "Orcid"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0001-5102-6049"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/reggieterry"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files

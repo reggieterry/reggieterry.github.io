@@ -1,10 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Resume"
-    url: /resume/
-  - title: "Contact"
-    url: /contact/
+  - title: "Resume/CV"
+    url: /
+  - title: "Teaching Portfolio"
+    url: /teaching-portfolio/
+  
