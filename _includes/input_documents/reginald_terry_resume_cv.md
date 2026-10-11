@@ -6,7 +6,7 @@ reginaldterry1969@gmail.com • 919-519-0360 • Lansdowne, PA (Open to Remote)
 Summary
 -------
 
-Recent Doctor of Business Administration (DBA) graduate who is highly motivated, creative, and results-driven with 21+ years of professional experience in hospitality and management. While working in this industry, I managed guest services, handled public relations, trained and supervised employees, maintained records for events, taught individuals to improve their professional development, and spearheaded food safety and services for companies and organizations. I’m seeking to shift careers to become a Marketing/Sales Manager or a similar position that will allow me to refine my vast business knowledge within an industry setting.
+Recent Doctor of Business Administration (DBA) graduate and adjunct instructor specializing in business and hospitality management, backed by over 21 years of professional industry experience. Holding a doctoral dissertation focused on Transformational Leadership and Job-Related Stress in the Hospitality Industry, I am dedicated to bridging academic theory with practical, data-driven applications in the virtual classroom. My teaching portfolio highlights an interactive, student-centered approach utilizing structured discussions, multimedia assignments, and rigorous assessment rubrics designed to foster critical thinking and professional communication.
 
 Skills & Proficiency
 --------------------
