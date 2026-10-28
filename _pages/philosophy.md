@@ -14,6 +14,10 @@ title: Teaching Portfolio
 
 ## Evidence of Teaching Effectiveness
 * Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf.pdf">student evaluations</a>  (e.g., Average score: 4.8/5.0).
+* <a href="{{site.url}}/external_documents/teaching/Online - 2601B - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2601B - BUSN105-07 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
+* <a href="{{site.url}}/external_documents/teaching/Online - 2603B - Business Strategy Fundamentals.pdf" download="Online - 2603B - Business Strategy Fundamentals.pdf">Advanced teaching modules</a> covering strategic management and organizational leadership.
+* <a href="{{site.url}}/external_documents/teaching/Online - 2602A - Digital Marketing Essentials.pdf" download="Online - 2602A - Digital Marketing Essentials.pdf">Student engagement strategies and assessment rubrics</a> for modern learning environments.
+
 
 
 ## Professional Development - American Intercontinential University
