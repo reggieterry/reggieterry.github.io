@@ -13,13 +13,13 @@ title: Teaching Portfolio
 * **Strategic Marketing** - Modern marketing frameworks, consumer behavior, and sales management.
 
 ## Evidence of Teaching Effectiveness
-* Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf.pdf">student evaluations</a>  (e.g., Average score: 4.8/5.0).
-* Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2601B - BUSN105-06 - Reginald Terry (terreg1016).pdf" download="Online - 2601B - BUSN105-06 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
-* Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2602A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2602A - BUSN105-07 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
-* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2602A - BUSN105-08 - Reginald Terry (terreg1016).pdf" download="Online - 2602A - BUSN105-08 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
-* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2602B - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2602B - BUSN105-07 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
-* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
-* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2603B - BUSN105-06 - Reginald Terry (terreg1016).pdf" download="Online - 2603B - BUSN105-06 - Reginald Terry (terreg1016).pdf">Detailed course materials and syllabi</a> demonstrating comprehensive instructional approach.
+* Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf.pdf">student evaluations</a> BUSN105-2603-07.
+* Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2601B - BUSN105-06 - Reginald Terry (terreg1016).pdf" download="Online - 2601B - BUSN105-06 - Reginald Terry (terreg1016).pdf">student evaluations</a> BUSN105-2601B-06.
+* Summary of  <a href="{{site.url}}/external_documents/teaching/Online - 2602A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2602A - BUSN105-07 - Reginald Terry (terreg1016).pdf">student evaluations</a> BUSN105-2602-07.
+* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2602A - BUSN105-08 - Reginald Terry (terreg1016).pdf" download="Online - 2602A - BUSN105-08 - Reginald Terry (terreg1016).pdf">student evaluations</a> BUSN105-2602A-08.
+* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2602B - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2602B - BUSN105-07 - Reginald Terry (terreg1016).pdf">student evaluations</a> BUSN105-2602B-07.
+* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf" download="Online - 2603A - BUSN105-07 - Reginald Terry (terreg1016).pdf">student evaluations</a> BUSN105-2603A-07.
+* Summary of <a href="{{site.url}}/external_documents/teaching/Online - 2603B - BUSN105-06 - Reginald Terry (terreg1016).pdf" download="Online - 2603B - BUSN105-06 - Reginald Terry (terreg1016).pdf">student evaluations</a> BUSN105-2603B-06.
 
 
 
